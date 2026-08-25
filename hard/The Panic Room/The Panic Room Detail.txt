@@ -1,0 +1,13 @@
+1.  C, E, F take C8,C9,C10
+2.  H, D, E, and a woman in Dining Room take R1, R2, R3, R4
+3.  B is at (C7,R6)
+4.  D is at (C6,R2)
+5.  G is at R10
+6.  C is at (C8,R9)
+7.  F is at (C10,R5)
+8.  E is at (C9,R3)
+9.  A is at (C2,R7)
+10. G is at (C5,R10)
+11. I and V take C1 and C3. H is at (C4,R1)
+12. I is at (C3,R8)
+13. V is at (C1,R4)

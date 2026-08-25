@@ -1,0 +1,7 @@
+1.  F was on Store Floor with a man. A is at Cashier. So the man has to be E. E is at (C1,R5)
+2.  A is at (C7,R6)
+3.  D is at (C2,R2)
+4.  C is at (C6,R3)
+5.  B is at (C3,R1)
+6.  F is at (C4,R4)
+7.  V is at (C5,R7)

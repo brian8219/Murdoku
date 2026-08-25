@@ -1,0 +1,11 @@
+1.  There's one in bed, and D is at B's east side. B is at (C7,R9)
+2.  G and the person in bed take R1, R2
+3.  (C9,R3) need someone. Only possibility is H.
+4.  F cannot be at BASEMENT. F is at R5.
+5.  If F is at (C6,R5), no one can be in LIVING ROOM, so F is at (C3,R5)
+6.  Some one is at (C8,R4) and it has to be D
+7.  Some one is at (C6,R6), G has to be on chair, if G is at (C4,R1) R8 will be empty, so G is at (C1,R2)
+8.  A is at (C5,R1)
+9.  C is at (C4,R8)
+10. E is at (C6,R6)
+11. V is at (C2,R7)

@@ -1,0 +1,22 @@
+1.  According to general clue. I, J, L, N, O are in different Habitat. K and M are in the same area.
+2.  G and H are alone. B is at CONCESSION. D is in MAIN AREA. So G and H take ENTRANCE and DECK.
+3.  B and another person in CONCESSION and one person in ENTRANCE take C14, C15, C16
+4.  N is at CROCODILE HABITAT (other keeper can't be at this area)
+5.  J is at C8
+6.  E is at (C14,R10)
+7.  G is at (C1,R12)
+8.  L is at (C9,R1)
+9.  J is at (C8,R9)
+10. B is at (C16,R8)
+11. H is at (C15,R14)
+11. N is at (C3,R7)
+13. O is at (C13,R2)
+14. I is at (C5,R4) (cannot be at R3 because A)
+14. A is at (C7,R3)
+15. K is at (C4,R15)
+16. C is at (C6,R5)
+16. D is at (R6)
+17. F is at (C10,R6)
+18. M is at (C2,R13)
+19. D is at (C11,R6)
+20. V is at (C12,R11)

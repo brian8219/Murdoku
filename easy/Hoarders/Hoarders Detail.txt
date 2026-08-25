@@ -1,0 +1,7 @@
+1.  E and G is in GARAGE. G is at (C6,R7), E is at (C7,R6)
+2.  B is at (C8,R2)
+3.  F is at (C2,R8)
+4.  C is at (C1,R3)
+5.  C is at (C4,R1)
+6.  C is at (C5,R4)
+7.  C is at (C3,R5)

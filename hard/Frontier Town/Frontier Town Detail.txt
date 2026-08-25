@@ -1,0 +1,11 @@
+1.  Outlaw is beside table. H is with outlaw and sit on a chair. So Outlaw and H is at either CHAPEL or BANK
+2.  A, B, C cannot be beside table and with H in same area. F, G is not beside table. I can be in the same area with H. Outlaw is E. H is at (C10,R7)
+3.  If A is at (C9,R10). It will zone out E. A is at (C4,R9)
+4.  F is (C9,R4) or (C5,R8), it blocks (C9,R9). E is at (C8,R10)
+5.  I is at R8, F is at (C9,R4)
+6.  G is (C2,R5) or (C5,R6), it blocks (C5,R5), C is at (C1,R2)
+7.  B is (C5,R1) or (C3,R6), it blocks (C5,R6), G is at (C2,R5)
+8.  D is at (C7,R3)
+9.  I is at (C5,R8)
+10. B is at (C3,R6)
+11. V is at (C6,R1)

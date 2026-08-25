@@ -1,0 +1,11 @@
+1.  According to E's clue, Outlaw is at R1 ~ R4. Outlaw is alone. Outlaw can't be at WOODS , C and D are there. Outlaw can't be at C2 ~ c4 at RIVER, is will cause C1 empty Only possibility of outlaw is B at (C5,R4)
+2.  E is at R10. R1 is empty.
+3.  B, outlaw is alone. F is at (C3,R7)
+4.  G is at R2. D is (C6,R6)
+5.  A is at (C8,R8)
+6.  Someone is at (C9,R9)
+7.  C is at (C7,R5)
+8.  H is at (C4,R3)
+9.  H is at (C2,R2)
+10. E is at (C1,R10)
+11. V is at (C10,R9)

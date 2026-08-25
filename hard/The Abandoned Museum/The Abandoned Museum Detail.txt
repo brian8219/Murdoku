@@ -1,0 +1,11 @@
+1. B is alone with a man, a man sitting in a chair with E. H can not fit the condition. D and G must be the two man.
+2. D G can only be in LOBBY, CAFE, SECURITY. Because B E can only be in these area (RESTROOM is not possible because C is in C1)
+3. Can be in C2 C3 C4. C can not be in R1 R2. There's must be someone at C8R1
+4. D and a woman take C6 C7
+5. If D is at C7R6, than B must be on C6R7, E need to be in LOBBY but G cannot be at C3R8. So D must be C6R7 B must be at C3 R8
+6. A must be at C4R2, G must be at C5R6 E must be at C7R5
+7. Someone must be at C9R4
+8. H must be at C8R1
+9. F must be at C2R9
+10.C must be at C1R3
+11.V must be at C9R4
