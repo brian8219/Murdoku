@@ -1,0 +1,12 @@
+1. B and H is in same area, North Tower is not possible because it will block the elevator. But depends on E's clue. Two elevator both have a woman in it. Same reason for Park. B has one possibility left C8R11.
+2. Depends on D's clue, there must be an empty area. ELEVATOR A, ELEVATOR B must have people depends on E's clue. STREET is not empty depends on F. NORTH SIDEWALK and SOUTH SIDEWALK is not empty because A I J 's clue. NOTH TOWER is not empty, because person in ELEVATOR B and H will take C11 and C12 there's must be someone in R3 and R4 in NORTH TOWER. D cannot be in SOUT SIDEWALK even PARK is empty, so the only possibility of empty area is FOUNTAIN.
+3. K's clue, the person near the statue must be on C3R9 or C4R10, but R11 is taken , so the person must be in C4R11 so H must be in C11R9, and K must be in C12R12.
+4. A has one possibility left at C10R2
+5. D has one possibility left at C5R3 (E has to be at R1)
+6. C has one possibility left at C4R10
+7. E has one possibility left at C3R1 (someone is at C1R7)
+8. I has one possibility left at C9R5
+9. F has one possibility left at C1R7
+10.G has one possibility left at C2R4
+10.J has one possibility left at C7R8
+11.V has one possibility left at C6R6
