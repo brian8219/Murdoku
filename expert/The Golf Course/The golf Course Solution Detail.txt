@@ -1,0 +1,19 @@
+1.  H must be in HOLE1 2 3. HOLE 2 3 has no cart. H must be in HOLE 1. There must be a woman in the cart in HOLE1. M can only be at C15R3
+2.  K has to be in HOLE3. There must be another person. It has to be O at C12R1. K has to be at R2.
+3.  E has to possible at C9R11, C5R13. It block C5R11 C9R13. J is at C9R14.
+4.  E is at C5R13
+5.  HOLE6 can not have more people
+6.  G Can be C16R15 or C2R5, it block C2R15 F can only be at C4R12
+7.  Someone has to be at C1R15. otherwise HOLE5 has fit in 2 people and it's not ok. It has to be H
+8.  G has to be at C2R5
+9.  I take C3
+10. Someone has to be at C6R4
+11. D is at C10R11
+12. I is at C3R10
+13. N is at C7R7
+14. A is at C13R16
+14. B is at C14R9
+14. K is at C11R2
+14. L is at C8R8
+14. C is at C6R4
+14. V is at C16R6

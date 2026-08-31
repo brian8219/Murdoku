@@ -1,0 +1,10 @@
+1.  D is in R8
+2.  G is at (C9,R8)
+3.  C is at (C1,R9)
+4.  If D is at C2 she will zone out E. So D is at (C3,R8)
+5.  H is at (C6,R4)
+6.  B is at (C8,R3)
+7.  A is at (C4,R2)
+8.  If E is at (C2,R1) she will zone out F. So E is at (C2,R6)
+9.  F is at (C5,R1)
+10. V is at (C7,R5)

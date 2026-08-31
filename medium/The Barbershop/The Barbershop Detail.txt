@@ -1,0 +1,10 @@
+1.  D cannot be in MAIN AREA, it will cause R4 empty. D cannot be in WAITING AREA it will zone out G
+2.  D and E take R1 and R2
+3.  B can only B with E and can only be at (C1,R3)
+4.  G can only be at (C2,R8)
+5.  C take R4, F can only be at (C3,R7)
+6.  E can only be at (C4,R1)
+7.  D can only be at (C6,R2)
+8.  A can only be at (C7,R6)
+9.  C can only be at (C5,R4)
+10. V can only be at (C8,R5)
