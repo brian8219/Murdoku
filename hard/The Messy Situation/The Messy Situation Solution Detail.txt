@@ -1,0 +1,15 @@
+1.  The only person can be KITCHEN is A (if B at (C3,R4) A has to be at (C2, R1), it will cause R2 empty)
+2.  C and D cannot be in RESTROOM. G and F cannot be in RESTROOM (will zone out A in KITCHEN) 
+3.  H cannot be in RESTROOM, will zone out A and B.
+4.  The only person can be in RESTROOM is B and has to be at R4
+5.  A is at (C2,R3)
+6.  C cannot be at (C6,R7) or (C3,R8),it will zone out F and G, so C is at (C4,R1)
+7.  D is at R2
+8.  E is at (C9,R9)
+9.  If B is at C8, it will zone out H, so B is at (C6,R4)
+10. F is at (C3,R8)
+11. G is at (C1,R7)
+12. D is at (C7,R2)
+13. H is at (C8,R6)
+14. H is at (C8,R6)
+15. V is at (C5,R5)
