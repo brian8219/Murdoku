@@ -1,0 +1,19 @@
+1.  G cannot be at (C6,R1) (C7,R1) because of D
+2.  I is with G
+3.  E can be only at (C7,R6) (C8,R6)
+4.  Only two Flag left, so A can only be at R3 or R10. All chairs are at R3 or R10. So A and B take R3 R10
+5.  H can be at (C10,R1) (C3,R5) it blocks (C10,R5)
+6.  Person beside table, person beside barrel, E take C7, C8, C9
+7.  B is at (R3,C4)
+8.  Someone is at (C1,R9) because of A's clue
+9.  I is at R2
+10. H is at (C3,R5)
+11. G is at (C2,R1)
+12. I is at (C5,R2)
+13. A is at (C10,R10)
+14. D is at (C6,R7)
+15. Some is at (C7,R8) (general clue)
+16. E is at (C8,R6)
+17. F is at (C1,R9)
+18. C is at (C7,R8)
+19. V is at (C8,R4)
