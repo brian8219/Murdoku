@@ -1,0 +1,9 @@
+1.  A is at R2, so G is at 6.1
+2.  Is A is at 5.2, B has no place to put in Judge's Bench, so A is at 4.2
+3.  E is at 5.7
+4.  D is at 2.6
+5.  H is at 1.4
+6.  Open chairs are in Gallery and Jury Box, if B is in Jury Box, there's no place for another person, so B is in Gallery at 7.8
+7.  C is at 3.9
+8.  F is at 8.5
+9.  V is at 9.3

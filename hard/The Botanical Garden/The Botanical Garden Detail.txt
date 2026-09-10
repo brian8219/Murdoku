@@ -1,0 +1,17 @@
+1.  B is at Arboretum, H is in Resting Area, J is in Pond, G is in Bonsai Exhibit, K is in Desert Exhibit. D can only be at path in Flower Garden. F and I are alone in Gazebo and Info Desk
+2.  Empty chair is in Arboretum, Resting Area, Bonsai Exhibit. Only Bonsai Exhibit is possible to be alone with man. E is at (1.4)
+3.  I is at (8.1)
+4.  F is at (2.8)
+5.  D is at R3
+6.  K and G takes C4 and C5
+7.  K and C takes R11 and R12
+8.  B take C11, C is at (9.11)
+9.  B and G take R2 and R3
+10. G is at (4.2)
+11. K is at (5.12)
+12. B is at (10.3)
+13. J is at (7.9)
+14. If A is at (12.6), then D is at (3.7), then H is at (6.10), then no space for V. So A is at (6.5)
+15. H is at (12.7)
+16. D is at (3.6)
+17. V is at (11.10)

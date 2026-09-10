@@ -1,0 +1,9 @@
+1.  A take R1, H take R8, C is at 9.3
+2.  E is at 2.7
+3.  F is at 1.2
+4.  D is at 6.6
+5.  B is at 4.5
+6.  H is at 7.8
+7.  A is at 5.1
+8.  G is at 3.9
+9.  V is at 8.4

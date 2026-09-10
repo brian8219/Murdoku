@@ -1,0 +1,22 @@
+1.  J is beside a tree and 6 row above G, they have to be in Forest Island.
+2.  L can't be in Desert Island or Empty Island, she has to be on left of J. L can't be in Forest Island, there are already 2 man. If L is in Lonely Island, she has to be at (1.15), it blocks the house for K, blocks the shark for M, can't be alone with V, all other men are in other island. So L must be in Town Island at (C8). 
+3.  J is at (9.5)
+4.  G is at (R11)
+5.  L is at (8.9)
+6.  F is southmost in Town Island, O is at (R14), so F is at (R13), O is no in Town Island, two other women at (R10), (R12)
+7.  A is could be (R2), (R7) in Desert Island. D is at (15.1) H's clue mention D is not beside cactus.
+8.  H is at (14.7)
+9.  B is at (C12), A is at (10.2).
+10. 3 candidate left : E, I, N for the women in Town island. It has to be I and N because they have to be together. N is at (6.12)
+11. I is at (11.10)
+12. F is at (7.13)
+13. Town Island have 4 people, Desert Island already have 4 people A, B, D, H. There must be 5th person. Only possibility is E at (13.4).
+14. M is at (C1)
+15. G is at (2.11)
+16. C is at (C16)
+17. O is at (5.14)
+18. K is at (3.3)
+19. B is at (12.6)
+20. 2 people in Lonely Island take (R15) (R16), C is at (16.8)
+21. M is at (1.15)
+22. V is at (4.16)

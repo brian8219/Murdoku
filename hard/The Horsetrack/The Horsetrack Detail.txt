@@ -1,0 +1,18 @@
+1.  J can be at (1.11), (2.12), (9.2), J cannot be at (8.3) because H is the only person on chair.
+2.  E and I are together alone. They can't be in Horse Track, because A, B, C, D are there. They can't be in VIP Area, because K is there. They can't be in Betting, because I can't be on carpet or chair. If they are in Concession, they take C1 and C2, K then at (3.2), J then have no place to go. So E and I must be in Stables.
+3.  E, F, I, K take R1~R4.
+4.  E take C12, the available horse are at R5, R7, R8, R9. A, B, C, D take these for row. 
+5.  G is at R6
+6.  (2.7) is the only horse at R7 someone must be there.
+7.  J is at (1.11)
+8.  K is at (3.2)
+9.  G is at (7.6)
+10. F is at (6.3)
+11. I is at (10.1)
+12. E is at (12.4)
+13. D is at (11.9)
+14. C is at (9.5)
+15. B is at (2.7)
+16. H is at (5.10)
+17. A is at (4.8)
+18. V is at (8.12)

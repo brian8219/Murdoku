@@ -1,0 +1,7 @@
+1.  A is at C1, so be is at 2.3
+2.  C is at 3.2
+3.  D is at 4.7
+4.  In F's clue, the last water puddle is at R5, so A is at 1.4
+5.  F must be in Dining Room and not blocking the last water puddle, so F is at 7.1
+6.  E is at 6.5
+7.  V is at 5.6

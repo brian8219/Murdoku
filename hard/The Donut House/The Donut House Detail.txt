@@ -1,0 +1,11 @@
+1.  In H's clue. The man has to be E, and can't be placed in R8, R9. If E is at (6.2), then A has to be in the bed in Main Bedroom, it will cause empty column, so E must be in Living Room.
+2.  Either a is in Main Bedroom or Guest Bedroom, there has to be another person in another room to prevent empty column.
+3.  B is in Hallway, D is in Kitchen, so the empty area is Washroom.
+4.  E is alone in Living Room, he has to be at (1.6) to prevent empty column.
+5.  C is at (9.5)
+6.  H is at R8, A is (8.3)
+7.  G is at (5.2)
+8.  D is at (2.1)
+9.  Someone is at (7.9), H is at (6.8)
+10. B is at (3.4)
+11. V is at (4.7)

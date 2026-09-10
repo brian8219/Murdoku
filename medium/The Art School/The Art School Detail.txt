@@ -1,0 +1,9 @@
+1.  According to D's clue, someone is alone in Gallery, B can only be at 2.1
+2.  F is at 5.2
+3.  A can't be at Sculpting Studio, D is there. Or Painting Studio, it cause empty row. So A is at 9.3
+4.  H is at 7.4
+5.  E is at 4.6
+6.  D is at 7.9
+7.  G is at 3.5
+8.  C is at 1.8
+9.  V is at 8.7

@@ -1,0 +1,13 @@
+1.  H can't be in Plaza because G is there. So H must be at R2. (2.6),(2.7) must be empty.
+2.  H is in Cafe, G is in Plaza, F is in Park. A can only be at Lover's bridge. C is not with A. So A is at C6 last space (6.4)
+3.  C is at (5.9)
+4.  Someone is at (7.7)
+5.  G is at (3.8)
+6.  F is at C9
+7.  If H is at (3.2), then someone has to be at (1.1) and one person need to be at (2.5), but there will be no space for D. So H is at (2.2).
+8.  If the other person in Cafe is at C3, someone needs to be at Path blocks at C1, there will be no space for D. So the person is at (1.1).
+9.  F is at (9.6)
+10. E is at (7.7)
+11. D is at (8.3)
+12. B is at (8.5)
+13. V is at (1.1)

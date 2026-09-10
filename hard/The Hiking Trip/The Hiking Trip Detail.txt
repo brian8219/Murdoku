@@ -1,0 +1,15 @@
+1.  E and K take C11 and C12 
+2.  H is at R14, I is at (3.12)
+3.  H can only be at (2.14). Lake have on column left. Rocky Trail needs glasses. Entrance Booth have no candidate.
+4.  F is at (10.6)
+5.  B is at R4
+6.  K is at (12.5)
+7.  D is at (1.10)
+8.  There are people at R4 and R10, so R2 and R8 is empty.
+9.  E is at (11.3)
+10. C is at (9.13)
+11. A is at (4.7)
+12. F is at (7.1)
+13. B is at (6.4)
+14. J is at (5.11)
+15. V is at (8.9)

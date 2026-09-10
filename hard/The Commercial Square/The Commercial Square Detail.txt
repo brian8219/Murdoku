@@ -1,0 +1,15 @@
+1.  According to general clue, at least 8 people in 4 stores. At most 3 people in Fountain and Walkway. It's A, B, F, other people can't be in these area.
+2.  H is at (7.10)
+3.  I is at (6.1)
+4.  A is at (5.6)
+5.  Someone is at C4, B is at (8.5)
+6.  F is the chair in walkway, cross out all other place in walkway. Someone has to be at (10,7)
+7.  C is at (11.3)
+8.  E is at (9.2)
+9.  G is at (10.7)
+10. Someone is at (3.4)
+11. F is at (2.8)
+12. (3.9) can't put people, it cause empty row and column
+13. J is (3.4)
+14. D is at (4.11)
+15. V is at (1.9)

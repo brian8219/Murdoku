@@ -1,0 +1,14 @@
+1.  If B is Boathouse with a woman beside a crate, one of them has to be on a boat. A and C take the other two boats, general clue is failed. If B is in dock B, F then is at R2, A and C have no space left. If B is in Warehouse, the woman has to be V, but H is also there, murderer rule is failed. So B has to be in the Fish market and the Woman is D at R8
+2.  B, D, H take R7, R8, R9.
+3.  H is at C7,C8 these the boat there must not empty, so C3 must be empty
+4.  D is at (1.8)
+5.  H is at (8.7)
+6.  C is at (7.2)
+7.  A is at (4.1)
+8.  F, G take R3, R4, A is at (4.1)
+9.  B is at (5.9)
+10. C2 is empty
+11. E is at (10.5)
+12. G is at (11.4)
+13. F is at (9.3)
+14. V is at (6.6)

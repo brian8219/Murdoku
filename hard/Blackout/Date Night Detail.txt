@@ -1,0 +1,11 @@
+1.  Someone is on the bed, C is in Main Bedroom, So G can only be at R5.
+2.  F is at (5.6)
+3.  D is in Guest Room, B is at Dining Room (the only free table is there), C is in Main Bedroom, G is in Living Room, so A must be at (9.4)
+4.  B is in Dining Room with someone, one of them is at R1, the other one is at C6. (6.1) is not available, it will block both. The person at C6 must be on a chair, cross out all other chair.
+5.  Someone must be at (7.1), so C is at (8.7)
+6.  D is at (1.9)
+7.  G is at (2.5)
+8.  If the woman with G is E, E has to be at (3.2), it will cause C4 Empty, so it has to be H at (4.2)
+9.  E is at (7.1)
+10. B is at (6.3)
+11. V is at (3.8)

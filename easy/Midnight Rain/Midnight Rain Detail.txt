@@ -1,0 +1,7 @@
+1.  B is at 2.1
+2.  C can't be in Sidewalk South it will cause empty row, so C is at 4.3
+3.  In D's clue there's a man in a car, A is impossible to be in a car, so the man has to be F, and according to F's clue, F is at 7.5
+4.  D can't be with C, D is at 6.4
+5.  A is at 1.6
+6.  E is at 3.2
+7.  V is at 5.7

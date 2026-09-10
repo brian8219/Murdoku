@@ -1,0 +1,13 @@
+1.  F is the only person on a chair, S is in Santa's Lodge, S is at R3
+2.  F is at (6.4)
+3.  J and G is at R1 and R2, G is at (11.2)
+4.  D is at C3, B is at (8.8)
+5.  S ia at (7.3)
+6.  C is at (2.9)
+7.  D is at (3.11)
+8.  E is at (10.7)
+9.  I is at (5.10), last person in R10
+10. Someone is at (4.6)
+11. J is at (9.1)
+12. A is at (1.5)
+13. V is at (4.6)

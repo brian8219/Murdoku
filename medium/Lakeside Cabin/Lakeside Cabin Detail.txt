@@ -1,0 +1,9 @@
+1.  A, another woman in Cabin and D take R7,R8,R9. B can't be the woman, because H need to place under B and it will exceed the limit. So E is the woman at 7.7
+2.  H can be at 1.1 or 6.2, B is above H, so H is at 6.2
+3.  A is at 9.8
+4.  F cannot be at C1, F and another person beside the same tree will block D. So F is at 3.4. Another person is at 2.3
+5.  D is at 1.9
+6.  B is at 5.1
+7.  C is at 4.5
+8.  G is at 2.3
+9.  V is at 8.6
