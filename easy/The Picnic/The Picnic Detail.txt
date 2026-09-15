@@ -1,0 +1,6 @@
+1.  D is at (7.3)
+2.  B is at (5.7)
+3.  F is at (3.4) and E is at (1.5)
+4.  A is at (2.2)
+5.  C is at (4.1)
+6.  V is at (6.6)
