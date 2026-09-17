@@ -1,9 +1,22 @@
-1.  B is in Dock, there must be another person, they take R3, R4, A is at 3.5
-2.  And the person then take C1, C2, B is at 2.3, D is at 1.4
-3.  No place for two people in Rocky Shore, F is at 4.1
-4.  Someone is at 8.2.
-5.  C is at 7.8
-6.  Someone is at 5.7
-7.  E is at 6.6
-8.  G is at 8.2
-9.  V is at 5.7
+1.  B is in Dock, there must be another person, they take R3, R4, A is at (C3.R5)
+2.  Because D is west (left) of B, B can't be at (C1), so B is at (C2,R3)
+3.  D has to be at (C1), and have to be in Dock to fulfil general clue, so D is at (C1.R4)
+4.  No place for two people to fit in Rocky Shore, so F is at (C4.R1)
+5.  Someone is at (C8.R2)
+6.  C is at (C7.R8)
+7.  Someone is at (C5.R7)
+8.  E is at (C6.R6)
+9.  G is at (C8.R2)
+10. V is at (C5.R7)
+
+
+Hint 1/5
+Per the general clue, B cannot be alone on the Dock, B must be on the Dock with someone else. Block the rest of R3 and R4. This isolates A on the last boat.
+Hint 2/5
+This sets B and the other person on the Dock in C1 and C2, block the rest of C1-C2. D can now only be in R4 C1, with B in R3 C2.
+Hint 3/5
+Per the general clue, F cannot be alone on the Rocky Shore, this isolates F beside the boulder in R1 C4. Someone must be with him in R2 C8.
+Hint 4/5
+This isolates C in the last square beside a shrub. Someone must be with her in R7C5. This isolates E in the Lake, in the last square not beside a tree.
+Hint 5/5
+This isolates G on the North Shore, then V on the South Shore, alone with C. Corina is the murderer!

@@ -1,6 +1,6 @@
 1. B is alone with a man, a man sitting in a chair with E. H can not fit the condition. D and G must be the two man.
 2. D G can only be in LOBBY, CAFE, SECURITY. Because B E can only be in these area (RESTROOM is not possible because C is in C1)
-3. Can be in C2 C3 C4. C can not be in R1 R2. There's must be someone at C8R1
+3. A can be in C2 C3 C4. C can not be in R1 R2. There's must be someone at C8R1
 4. D and a woman take C6 C7
 5. If D is at C7R6, than B must be on C6R7, E need to be in LOBBY but G cannot be at C3R8. So D must be C6R7 B must be at C3 R8
 6. A must be at C4R2, G must be at C5R6 E must be at C7R5
@@ -9,3 +9,38 @@
 9. F must be at C2R9
 10.C must be at C1R3
 11.V must be at C9R4
+
+
+1.  C is at (C1), C can't be at (C1.R1) because she is south of A. Cross out (C1.R1).
+2.  Someone has to be at (C8,R1) to prevent empty row, cross out (C8) except (C8.R1).
+3.  B is sitting on a chair with a man, a man is sitting on a chair with E.The chair at (C2.R4) can't be an option, because C is at (C1), Restroom can't fit in two people. Chair at (C3.R7) can't be an option, it blocks two other chairs. So the two chair with people are (C6.R7) and (C3.R8). Cross out (C3) (C6) (R7) (R8) except the chairs.
+4.  D is the man that can be on a chair and fulfil the clue at (C6.R7)
+5.  B is at (C3.R8)
+6.  G is the only man can be with B at (C4) or (C5), according to A's clue G must be at (C5,R6)
+7.  E is at (C7.R5)
+8.  A can't be at (R9) because C was south of her. A is at (C4.R2)
+9.  H is at (C8.R1)
+10. F is at (C2.R9)
+11. C is at (C1.R3)
+12. V is at (C9.R4)
+
+Hint 1/7
+Pencil in C in C1 per her clue. Who are the men that B and E can be with respectively? It cannot be H since he is in the Exposition or Main Gallery, which don't have any chairs. The remaining options would be D and G. This means that B, D, E, and G, in some pair formation, are in the Lobby, Cafe, or Security. They cannot be in the Restroom or else that would block C in C1.
+
+Hint 2/7
+This narrows down G to be in the Lobby. If G was with B, B would occupy a chair in C3. If G was with E, G would occupy a chair in C3. Regardless, we know that either B or G will occupy a chair in C3. Block the rest of C3.
+
+Hint 3/7
+A can now only be in C2 or C4 since she is one column west of G, and she cannot occupy C3. This narrows down G to either R7 C3 or R6 C5.
+
+Hint 4/7
+Because C has to be south of A, and the highest row A can occupy is R2, C has to be R3 or lower. Cross out R1 C1 and R2 C1. This isolates one remaining square in R1 C8. Block the rest of C8.
+
+Hint 5/7
+Per B and E's clues, both their areas must have chairs. This means that B, D, E, G, in some pair formation, must occupy the Lobby and Cafe. Since there is one chair left in the Cafe, block all squares that intersect it.
+
+Hint 6/7
+This isolates G in R6 C5, which pairs them up with B on the remaining chair in C3. Because they're alone, block off all other squares in the Lobby. This also isolates A to the last remaining square in C4. This isolates D and E in the Cafe, with D in the chair beside the table.
+
+Hint 7/7
+This isolates H in the last square beside some rubble R1 C8. This isolates F in the last square beside a statue R9 C2. This isolates C to R3 C1. The last square is for V in the Main Gallery with H. Hugh is the murderer!
