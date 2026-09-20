@@ -1,10 +1,29 @@
-1.  D cannot be in MAIN AREA, it will cause R4 empty. D cannot be in WAITING AREA it will zone out G
-2.  D and E take R1 and R2
-3.  B can only B with E and can only be at (C1,R3)
-4.  G can only be at (C2,R8)
-5.  C take R4, F can only be at (C3,R7)
-6.  E can only be at (C4,R1)
-7.  D can only be at (C6,R2)
-8.  A can only be at (C7,R6)
-9.  C can only be at (C5,R4)
-10. V can only be at (C8,R5)
+1.  D cannot be in Main Area, it will cause (R4) empty. D cannot be in Waiting Area it will zone out G
+2.  D and E take (R1) and (R2)
+3.  B can only be with E at (C1.R3)
+4.  G is at (C2.R8)
+5.  C take (R4), F is at (C3.R7)
+6.  E is at (C4.R1)
+7.  D is at (C6.R2)
+8.  A is at (C7.R6)
+9.  C is at (C5.R4)
+10. V is at (C8.R5)
+
+
+Hint 1/6
+Begin by penciling in the possible squares for A and G. For each, cross out their intersecting squares: R5 C7 for A and R7 C2 for G. If anyone occupied either of those squares, A or G would have no valid squares left.
+
+Hint 2/6
+Focus on D's clue: he was alone and beside a TV. D cannot be in the Waiting Area because G is there, and he cannot be alone in the Main Area because that would leave R4 completely empty. Therefore, D must be alone in the Staff Room beside the TV. Cross out the squares that D cannot occupy.
+
+Hint 3/6
+Since E has to be beside a box, he must be in either R1 or R2 in Storage. R1 and R2 must now be occupied by D and E, so cross out any squares in those rows that neither of them can occupy.
+
+Hint 4/6
+Because no one in B's area had a beard, B can only be alone or with E, since E is the only person without a beard. There is no area that allows B to be alone, so B must be in Storage, in R3 C1. This narrows G down to R8 C2.
+
+Hint 5/6
+Because C was sitting in a chair, he must occupy one of the chairs in R4. Cross out the rest of the squares in that row. This leaves only one carpet square for F, so F is in R7 C3.
+
+Hint 6/6
+There is now only one square left for E, so E is in R1 C4. D takes the last square in the Staff Room, R2 C6. This narrows A to R6 C7, and C takes the last chair in R4 C5. The final remaining square, R5 C8, goes to V, which means A is the murderer.
