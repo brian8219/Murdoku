@@ -1,15 +1,34 @@
-1.  The only person can be KITCHEN is A (if B at (C3,R4) A has to be at (C2, R1), it will cause R2 empty)
-2.  C and D cannot be in RESTROOM. G and F cannot be in RESTROOM (will zone out A in KITCHEN) 
-3.  H cannot be in RESTROOM, will zone out A and B.
-4.  The only person can be in RESTROOM is B and has to be at R4
-5.  A is at (C2,R3)
-6.  C cannot be at (C6,R7) or (C3,R8),it will zone out F and G, so C is at (C4,R1)
-7.  D is at R2
-8.  E is at (C9,R9)
-9.  If B is at C8, it will zone out H, so B is at (C6,R4)
-10. F is at (C3,R8)
-11. G is at (C1,R7)
-12. D is at (C7,R2)
-13. H is at (C8,R6)
-14. H is at (C8,R6)
-15. V is at (C5,R5)
+1.  The only person can be Kitchen is A. If B at (C3.R4), A has to be at (C2.R1), it will cause R2 empty
+2.  C and D cannot be in Restroom. G and F cannot be in Restroom (will zone out A in Kitchen) 
+3.  H cannot be in Restroom, will zone out A and B.
+4.  The only person can be in Restroom is B and has to be at (R4)
+5.  A is at (C2.R3)
+6.  C cannot be at (C6.R7) or (C3.R8), it will zone out F and G, so C is at (C4.R1)
+7.  D is at (R2)
+8.  E is at (C9.R9)
+9.  If B is at C8, it will zone out H, so B is at (C6.R4)
+10. F is at (C3.R8)
+11. G is at (C1.R7)
+12. D is at (C7.R2)
+13. H is at (C8.R6)
+14. H is at (C8.R6)
+15. V is at (C5.R5)
+
+
+Hint 1/6
+Per the general clue, there are no empty areas, with 9 people to place within 7 areas. We know that C and D are together (per D's clue), and that V is alone with the murderer in another area. That means the remaining 5 people must be alone.
+
+Hint 2/6
+G has to be exactly one row north of F. If G was in the Restroom in R3, F would have to be in R4, this would block anyone from occupying the Kitchen. So G must occupy a chair in the Living Room, and F must occupy a mud puddle on the Porch. Cross out their intersecting squares R6 C1, R7 C3, and R8 C6.
+
+Hint 3/6
+Since C and D are together, and we know that C is on a mud puddle, they have to occupy the Back Yard. Because if they were in the Restroom, they would block the Kitchen, and they cannot occupy the Living Room since G is there. This means C is in R1 C4. This isolates E to R9 C9.
+
+Hint 4/6
+Since there are no empty areas, one person must occupy the Kitchen and Restroom respectively in R3 and R4. Cross out the Living Room squares in those rows. The only person who can occupy the Kitchen is A. B cannot occupy the Kitchen because if B were in C2, there would be no room for A to be northwest of him, and if B were in C3, A would have to be in the Kitchen with him, which means the Restroom would be empty.
+
+Hint 5/6
+The only person who can occupy the Restroom is B. H cannot occupy the Restroom because she would have to be in R3, which would mean there's no room for B to be northwest of her. Since B has to be southeast of A, this isolates A to R3 C2, and B has to be in R4.
+
+Hint 6/6
+This isolates H to the Bedroom, somewhere in R6 or R7. If G was in R6, F would have to be in R7, which would block H. So G must be in R7 and F must be in R8. This isolates H to R6 C8. This isolates B then D, and lastly V in the Living Room with G. Grace is the murderer!
