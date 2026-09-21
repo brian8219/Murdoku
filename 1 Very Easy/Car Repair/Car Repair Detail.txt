@@ -1,0 +1,21 @@
+1.  Because D is in Waiting Area alone, so C is at (C2.R1)
+2.  B is at (C4.R5)
+3.  A is at (C5.R6)
+4.  D is at (C6.R3)
+5.  E is at (C3.R4)
+6.  V is at (C1.R2)
+
+Hint 1/5
+Because D is alone in the Waiting Area, C can only be sitting in the only chair at the Reception, in R1 C2.
+
+Hint 2/5
+This isolates B on the last oil slick square.
+
+Hint 3/5
+This isolates A in the last square inside a car.
+
+Hint 4/5
+This isolates D in the last square in the Waiting Area.
+
+Hint 5/5
+This isolates E in the last square beside a shelf, then V in the last remaining square.
