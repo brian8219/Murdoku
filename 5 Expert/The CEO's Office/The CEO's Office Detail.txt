@@ -1,0 +1,54 @@
+1.  O is in the Kitchen with A or J, but A is with a woman office owner, so O is with J. And according to J's clue, J is at (C9.R10)
+2.  A office owner is in the Office D in (C8)
+3.  A office owner is in the Office A at (C7.R4)
+4.  M is in Conference Room alone, G is at (C14.R1)
+5.  E is at (R13) in the Office C or Office D.
+6.  C and CEO takes (R13) and (R15) in the CEO's Office
+7.  I is in the Hall Way and one office owner is south of her. So she can't be north of (R13), Office C and D are both under (R13). L is at (R16), so I can't be at (R16) I can only be at (R14) or (R15)
+9.  Now only Office C and D have free chair, So J must be at (R13)
+10. If J is not an Office owner (R14) must have one Office owner, I must be at (R15), (R16) Has another office owner. If J is an office owner, A need's to be with her. In both case, there are 4 people taking (R13) ~ (R16) and I is at (C2.R15) 
+11. So CEO's office only available at (R11) (R12). C can't be at (C13.R11), it will block all rest space and failed C's clue, so C is at (C13.R12).
+12. F is one row south of an office owner. It can't be Office C, D or CEO according to step 10. It can't be Office A, Owner of office A is at (C7.R4) according to step 3, but all (R5) space is  in Cubicle, F can't be in Cubicle according to B's clue. So A must be one row south of A Office owner. The office owner can't be at (R3) because of (R4) is taken at step 3. So G is the office owner. M is alone in Conference Room alone. So F is at (C10.R2)
+13. A is at (C12.R14)
+14. With step 2, E is at (C8.R13)
+15. With general clue, L is at (C6.R16)
+16. O is at (C5.R8)
+17. K can't be at Cubicle according to B's clue, so K is at (C3.R7)
+18. M is at (C4.R3)
+19. N can't be an office owner, the only woman office owner is E. N is at (C1.R9)
+20. D is at (C16.R6)
+21. B is at (C11.R5)
+22. H is at (C7.R4)
+23. V is at (C15.R11)
+
+
+
+Hint 1/10
+Let's look at O's clue. He is in the Kitchen either with A or J, but A needs to be with an office owner, so she's in an Office. A can't be in the Kitchen. This sets J on a chair in the Kitchen. J is east of three office owners, who are all in separate areas per the general clue. There are exactly three offices to the left of C11, so in order for J to be east of them all, J must be in the chair in R10 C9.
+
+Hint 2/10
+Per J's clue, this sets one office owner in C8 in Office D. Block the rest of C8. Another office owner west of J must be in R4 C7 in Office A. Block the rest of R4 and C7. The third office owner is somewhere in Office C.
+
+Hint 3/10
+Because M is alone in the Conference Room, the only chair in R1 for G is in Office B. This isolates G in R1 C14.
+
+Hint 4/10
+L must be in R16, and not in a chair. The only remaining chairs for E are in R13, in Office C or Office D. Block the rest of R13.
+
+Hint 5/10
+I, in the Hallway and north of exactly one office owner, can't be in R11 or R12, as there would be at least two office owners south of her: the one in Office C and the one in Office D. This sets I in R14 or R15 in the Hallway.
+
+Hint 6/10
+Let's examine R13, R14, R15 and R16. Per A's clue, there's exactly one woman office owner, so that person can't be alone. E is either with someone who's the office owner, or she's with A. There also needs to be another office owner in Office C or Office D, where E isn't. So in total, Office C and Office D will hold three people, plus I, who needs to be in R14 or R15. No one can fit in the CEO's Office in R13 or below.
+
+Hint 7/10
+Per C's clue, two people need to be in the CEO's Office. They're in the two remaining squares. C, not sitting in a chair, is in R12 C13 and the unknown CEO is in R11 C15.
+
+Hint 8/10
+Where can F be? She can't be one row south of E. If E is an office owner, then A would need to also fit in E's area, but AEFIL can't all fit in R13-R14-R15-R16. Per J's clue, the person in R4 C7 is an office owner. If F were in R4 C7, A would need to be in R3 C10 beside the trash can, but A and F can't both be office owners in the same office. F must then be in R2, one row south of G, who's the office owner of Office B. This isolates F in the last available R2 square, R2 C10.
+
+Hint 9/10
+This sets M in R3, in the Conference Room. Per J's clue, an office owner is in R4 C7, so A, who needs to be with the only woman office owner, can't be in R4 C7 herself. This isolates A in the only remaining square beside a trashcan inside an Office, R14 C12. E must be the office owner in the same area. Per J's clue, she must be west of J, in R13 C8.
+
+Hint 10/10
+Per B's clue, she is not with F or K, this isolates K in R7 C3. This isolates M. L is then the office owner in Office C. This isolates L in R16 C6, and I one square north of L in R15 C2. This isolates O in the last square in the Kitchen.
