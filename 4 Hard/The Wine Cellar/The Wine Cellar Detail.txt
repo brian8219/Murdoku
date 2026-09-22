@@ -1,11 +1,35 @@
-1.  There's one in bed, and D is at B's east side. B is at (C7,R9)
-2.  G and the person in bed take R1, R2
-3.  (C9,R3) need someone. Only possibility is H.
-4.  F cannot be at BASEMENT. F is at R5.
-5.  If F is at (C6,R5), no one can be in LIVING ROOM, so F is at (C3,R5)
-6.  Some one is at (C8,R4) and it has to be D
-7.  Some one is at (C6,R6), G has to be on chair, if G is at (C4,R1) R8 will be empty, so G is at (C1,R2)
-8.  A is at (C5,R1)
-9.  C is at (C4,R8)
-10. E is at (C6,R6)
-11. V is at (C2,R7)
+1.  There's one person in bed, cross out (C5) and D is at B's east side. B is at (C7.R9)
+2.  G and the person in bed take (R1) and (R2)
+3.  (C9.R3) need someone to preveny empty area and failed general clue. Only possibility is H.
+4.  The only person that can be on the bed is A. The only person can be in Living room is F is at (C3.R5)
+6.  Some one is at (C8.R4) and it has to be D
+7.  Some one is at (C6.R6) to prevent empty column, G has to be on chair, some is at (C2.R7) to prevent empty column. G is at (C1.R2) to prevent empty column.
+8.  A is at (C5.R1)
+9.  C is at (C4.R8)
+10. E is at (C6.R6)
+11. V is at (C2.R7)
+
+
+Hint 1/8
+There's someone on the bed, per the general clue. Block the rest of C5. B is in R9, west of D, this isolates B in the last R9 square, R9 C7.
+
+Hint 2/8
+No room was empty according to the general clue. There are exactly five rooms between R1 and R5: the Bathroom, the Main Bedroom, the Living Room, the Dining Room and the Kitchen. To respect the general clue, there must be exactly one person in each of these rooms. Who can possibly be alone in the Kitchen? H is the only possibility.
+
+Hint 3/8
+Who can be on the bed in the Main Bedroom? A is the only possibility. This sets A as the person on the bed, block the rest of the Main Bedroom.
+
+Hint 4/8
+Then, who can be the person alone in the Living Room? F is the only possibility at this point. G and A are in R1 and R2, this isolates H in the Kitchen in R3 C9. This isolates F in the last Living Room chair, R5 C3.
+
+Hint 5/8
+Someone must be in the last Dining Room square, R4 C8. We know that D and H are the only two people in C8-C9, this isolates D in R4 C8.
+
+Hint 6/8
+This isolates an unknown person in the last R8 square : R8 C4. Block the rest of C4. This also isolates someone in the last C6 square : R6 C6, block the rest of C6.
+
+Hint 7/8
+There are exactly two people sitting in a chair according to the general clue, this isolates G in the last remaining chair, in R2 C1. This isolates A.
+
+Hint 8/8
+This isolates C in the last square beside a shelf, R8 C4, then E in the last square not beside a TV, then V. V was alone with E, Elodie is the murderer!
