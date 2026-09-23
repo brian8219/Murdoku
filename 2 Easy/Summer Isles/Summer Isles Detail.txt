@@ -1,9 +1,28 @@
-1.  G take C5, E is at (6.5)
-2.  B is at (7.1) or (4.8), it block (4.1), A is at (1.2)
-3.  Boar Island is the only island that can fit in 4 people, cross out all block at C5~C8, R3~R6 that is not Boar Island. B is at (4.8)
-4.  C is at (2.9)
-5.  F is at (7.3)
-6.  H is at (8.4)
-7.  G ia at (5.6)
-8.  D is at (3.1)
-9.  V is at (9.7)
+1.  G take (C5), E is at (C6.R5)
+2.  B is at (C7.R1) or (C4.R8), intersection block (C4.R1), A is at (C1.R2)
+3.  H is on a four-people-island. Boar Island is the only island that can fit in 4 people, cross out all block at (C5)~(C8), (R3)~(R6) that is not Boar Island. B is at (C4.R8)
+4.  C is at (C2.R9)
+5.  F is at (C7.R3)
+6.  H is at (C8.R4)
+7.  G ia at (C5.R6)
+8.  D is at (C3.R1)
+9.  V is at (C9.R7)
+
+
+Hint 1/6
+Because E has to be beside a boar but cannot be in C5 since G occupies that column, E must be in R5 C6.
+
+Hint 2/6
+Pencil in B for the two remaining boat squares. Then cross out R1 C4 and R8 C7, because if someone occupied either of those squares, both boat squares would be eliminated, breaking the puzzle. This leaves only one house for A, so A is in R2 C1.
+
+Hint 3/6
+Focus on H's clue: she is on an island with three other people, meaning her island has four people total. The only island that can fit four people is Boar Island. Cozy Island is only three columns wide, while Squirrel Island and Snake Island only have three columns and three rows remaining, so none of them can fit a fourth person.
+
+Hint 4/6
+Since H must be on Boar Island, the four people on that island must occupy squares within R3 to R6 and C5 to C8. Cross out all squares in that range that are not part of Boar Island. This leaves only one boat for B, so B is in R8 C4.
+
+Hint 5/6
+There is only one square left in R6 C5, so G must occupy it. Then F must be in R3 C7, the last square where he can be beside a shrub. This leaves the last square on Boar Island, R4 C8, for H.
+
+Hint 6/6
+Because D is beside the same object type as H, D must be in R1 C3, beside the house on Cozy Island. C takes the last square on Squirrel Island, R9 C2. The final remaining square, R7 C9, goes to V, which means B is the murderer.

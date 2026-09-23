@@ -1,0 +1,22 @@
+1.  C is the only person in a chair, so E is at (C6.R4)
+2.  D is at (C2.R5)
+3.  A is at (C4.R6)
+4.  C is at (C5.R3)
+5.  B is at (C1.R1)
+6.  V is at (C3.R2)
+
+
+Hint 1/5
+Because C is the only person sitting in a chair, there's only one square where E can be beside the TV : R4 C6.
+
+Hint 2/5
+This leaves one square left in the Kitchen for D.
+
+Hint 3/5
+Since B is on the bed, she has to occupy the only bed square remaining, R1 C1.
+
+Hint 4/5
+After that, the only square left for A to be beside a shelf is R6 C4.
+
+Hint 5/5
+C must occupy the last chair in R3 C5. This isolates V in the last remaining square.

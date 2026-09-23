@@ -1,9 +1,28 @@
-1.  A, another woman in Cabin and D take R7,R8,R9. B can't be the woman, because H need to place under B and it will exceed the limit. So E is the woman at 7.7
-2.  H can be at 1.1 or 6.2, B is above H, so H is at 6.2
-3.  A is at 9.8
-4.  F cannot be at C1, F and another person beside the same tree will block D. So F is at 3.4. Another person is at 2.3
-5.  D is at 1.9
-6.  B is at 5.1
-7.  C is at 4.5
-8.  G is at 2.3
-9.  V is at 8.6
+1.  A, another woman in Cabin and D take (R7), (R8), (R9). B can't be the woman, because H needs to place under B and it will exceed the limit. So E is the woman at (C7.R7). A is at (R8). D is at (R9).
+2.  H can be at (C1.R1) or (C6.R2), B is above H, so H is at (C6.R2)
+3.  A is at (C9.R8)
+4.  F and another person beside the same tree can't be at (C1) and (C2), it will zone out D. So F is at (C3.R4). Another person is at (C2.R3)
+5.  D is at (C1.R9)
+6.  B is at (C5.R1)
+7.  C is at (C4.R5)
+8.  G is at (C2.R3)
+9.  V is at (C8.R6)
+
+
+Hint 1/6
+Because A is in the Cabin alone with another woman, and D is south of A. We can deduce that R7, R8, and R9 will be occupied by A, D, and the other woman in the Cabin. Amongst B, C, and E, we know C cannot be the woman in the Cabin with A since she’s in R5. We can also rule out B because she is required to be one row above H. If B were in the Cabin with A, H would occupy one of the bottom three rows, which cannot be accommodated. This means E is the woman in the Cabin with A. We can place E in the chair in R7 C7. Cross out all other chairs.
+
+Hint 2/6
+H can only be R1 C1 or R2 C6, but since B is one row above H, H can't be in R1 – so H is R2 C6 and B is in R1. Since D is south of A, A is R8 C9. Cross out all other Cabin squares.
+
+Hint 3/6
+F is beside a tree with someone north of him beside the same tree. He can't be in R6 (that's R6 C1 with C, leaving no room for D, who's west of F). So F is in R4, at C2 or C3 – cross out the rest of R4. The R3 person must be beside the same tree, so R3 C1 or C2 – cross out the rest of R3.
+
+Hint 4/6
+With F down to two squares, D must be in the Shed to be west of him – cross out the rest of R9. C8 now has only one square left, so cross out everything intersecting R6 C8. C1 and C2 must hold D and the tree person – cross out all else in those columns.
+
+Hint 5/6
+This puts F at R4 C3 and the tree person at R3 C2 (cross out intersecting squares), narrowing D to R9 C1. B takes the last square at R1 C5, C at R5 C4, and since G can't be in a corner he's at R3 C2.
+
+Hint 6/6
+This leaves the last square R6 C8 for V – hence C is the murderer.

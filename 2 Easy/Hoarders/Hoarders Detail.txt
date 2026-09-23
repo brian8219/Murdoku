@@ -1,7 +1,27 @@
-1.  E and G is in GARAGE. G is at (C6,R7), E is at (C7,R6)
-2.  B is at (C8,R2)
-3.  F is at (C2,R8)
-4.  C is at (C1,R3)
-5.  C is at (C4,R1)
-6.  C is at (C5,R4)
-7.  C is at (C3,R5)
+1.  E and G is in GARAGE. G is at (C6.R7), E is at (C7.R6)
+2.  B is at (C8.R2)
+3.  F is at (C2.R8)
+4.  C is at (C1.R3)
+5.  A is at (C4.R1)
+6.  D is at (C5.R4)
+7.  V is at (C3.R5)
+
+
+
+Hint 1/6
+Based on E’s clue, we can deduce that she has to be in R6 in the car. We can block the rest of R6.
+
+Hint 2/6
+Now, let’s focus on G’s clue. Because he has to be in the Garage with E, he has to take R7 C6 since that’s the last square left in the Garage. This isolates E.
+
+Hint 3/6
+This isolates B in the last chair in the Dining Room.
+
+Hint 4/6
+This isolates F in the last square beside a box, in R8 C2.
+
+Hint 5/6
+This isolates C on the last bed square, then A in the Kitchen.
+
+Hint 6/6
+This isolates A in the last corner, then V.

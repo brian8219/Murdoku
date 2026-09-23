@@ -1,0 +1,19 @@
+1.  C is at (C3.R1)
+2.  E is at (C4.R4)
+3.  D is at (C2.R2)
+4.  A is at (C6.R3)
+5.  B is at (C5.R6)
+6.  V is at (C1.R5)
+
+
+Hint 1/4
+There's only one chair for C, in R1 C3. Press and hold to place C in that square.
+
+Hint 2/4
+There's now only one remaining bed square for E, in R4 C4. This isolates D on the last square beside a statue, in R2 C2.
+
+Hint 3/4
+This isolates A in the last possible square north of E, in R3 C6.
+
+Hint 4/4
+This isolates B in the last square in the Secret Stairs in R6 C5, then V in the last square in R5 C1. V was alone with E, Edith is the murderer!

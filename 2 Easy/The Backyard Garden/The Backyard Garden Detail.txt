@@ -1,8 +1,27 @@
-1. E was sitting on a chair and with A in the living room. So E was at C5R9 A was at C6R8
-2. F was on carpet, only one space left at C7R6
-3. B take R5, D has only one space left at C3R7
-4. B has only one space left at C2R5
-5. C has only one space left at C1R1
-6. H has only one space left at C4R2
-6. H has only one space left at C4R2
-7. V has only one space left at C8R4
+1. E is sitting on a chair and with A in the living room. So E is at (C5.R9) A is at (C6.R8)
+2. F is on carpet, only one space left at (C7.R6)
+3. B take (R5), D is at (C3.R7)
+4. B is at (C2.R5)
+5. C is at (C1.R1)
+6. H is at (C4.R2)
+6. G is at (C4.R2)
+7. V is at (C9.R3)
+
+
+Hint 1/6
+Per A’s clue, A and E are both in the Living Room, so E is on the Living Room chair in R9C5. Block her row and column. This isolates A in R8 C6.
+
+Hint 2/6
+Since F has to be on a carpet, he must be in R6 C7, which is the last carpet square.
+
+Hint 3/6
+B is in the Shed in R5, block the rest of R5. This isolates D in the last square in the Bedroom. This isolates B in the last square inside the Shed.
+
+Hint 4/6
+There's one square left for C to be beside a tree, this isolates C in R1 C1.
+
+Hint 5/6
+H has to be alone. He cannot be in the Garden (G must be there), and he cannot be in the Backyard since C is already there. H is in the Pond in R2 C4.
+
+Hint 6/6
+This leaves one square left for G to be in the Garden. V is in the last remaining square.

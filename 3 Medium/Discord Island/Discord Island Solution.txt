@@ -1,12 +1,32 @@
-1.  C is at R1 (can't be at chair or carpet)
-2.  J is at C9 (can't be at chair or carpet, can't be alone in Help-to-solve)
-3.  C is at (6.1)
-4.  A is at (8,7)
-5.  M is at (1.8)
-6.  J is at (9,4)
-7.  Someone is at (7,6)
-8.  R is at (5.3)
-9.  X is at (4.5)
-10. N is at (3.9)
-11. P is at (7.6)
-12. G is at (2.2)
+1.  C is at (R1) (Can't be at chair or carpet, M and R's clue.)
+2.  Help-to-solve now have only (C1) empty, according to General clue, no one can't be there, cross out all Help-to-solve area.
+3.  J is at (C9) (Can't be at chair,  M's clue.)
+3.  C is at (C6.R1)
+4.  A is at (C8,R7)
+5.  M is at (C1.R8) to prevent empty column
+6.  J is at (C9,R4)
+7.  Someone is at (C7,R6)
+8.  R is at (C5.R3)
+9.  X is at (C4.R5)
+10. N is at (C3.R9)
+11. P is at (C7.R6)
+12. G is at (C2.R2)
+
+
+Hint 1/6
+C cannot be on a chair or on a carpet, per M and R's clues. This sets C in R1. Block the rest of R1.
+
+Hint 2/6
+Per the general clue, no one was alone. J cannot be in C1 in Help-to-Solve, or he would be alone, and J cannot be in C1 in Book Discussion, as he cannot sit on a chair or be on a carpet.
+
+Hint 3/6
+This sets J in C9, which isolates C. There's now only one square beside a TV without a carpet or a chair, where A can be north of M. This isolates A.
+
+Hint 4/6
+There's only one square available in C1: R8 C1, this isolates M in that square, which isolates J.
+
+Hint 5/6
+A can't be alone per the general clue, someone must be in R6 C7. Block the rest of R6 and C7. This isolates R on the last carpet square in R3 C5.
+
+Hint 6/6
+This isolates X in the last square beside a shelf, then N in the last square in Book Discussion. P is in the last non-path square, and G is in the last square, alone with J. Jacob is the murderer!
