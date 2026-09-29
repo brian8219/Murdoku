@@ -1,7 +1,23 @@
-1.  E is at (C1,R4)
-2.  C is at (C2,R2)
-3.  D is at (C4,R1)
-4.  B is at (C3,R6)
-5.  A is at (C6,R5)
-6.  G is at (C5,R7)
-7.  V is at (C7,R3)
+1.  E is at (C1.R4)
+2.  C is at (C2.R2)
+3.  D is at (C4.R1)
+4.  B is at (C3.R6)
+5.  A is at (C6.R5)
+6.  G is at (C5.R7)
+7.  V is at (C7.R3)
+
+
+Hint 1/5
+There's exactly one available chair for E, this isolates E.
+
+Hint 2/5
+This isolates C in the only remaining square in the Yard that's not beside a tree.
+
+Hint 3/5
+This isolates B in the last square inside the bus. D must be in the same area as C, in the Yard, this isolates C in the last square in the Yard.
+
+Hint 4/5
+A is exactly one column east of someone inside a car. This isolates an unknown person in the last car square, R7 C5. Block the rest of R7 and the rest of C5.
+
+Hint 5/5
+This isolates A in the last C6 square. There are two squares remaining, R3 C7 and R7 C5. G is not in the same area as A, she must be the person in the car, and V must be the person on the Sidewalk with A. Adonis is the murderer!
