@@ -1,0 +1,31 @@
+1.  G can't be in Dining Room according to A's clue. G is at (C8.R7)
+2.  E is at (C9.R9)
+3.  D can't be in Dining Room according to A's clue. D is at (C7.R3)
+4.  B is at (C3.R8)
+5.  H is at (C5.R5) to prevent empty row. Cross out all other chairs.
+6.  A is at (C2.R6) to prevent empty row.
+7.  F is at (R2), C is at (C4.R4)
+8.  F is at (C1.R2)
+9.  V is at (C6.R1)
+
+
+Hint 1/7
+Per A's clue, G can't be beside a plant in the Dining Room, this isolates G in R7 C8, beside the plant in the Entrance. This isolates E in R9 C9, the last square in the Entrance.
+
+Hint 2/7
+D can't be in the Kitchen or in the Dining Room (per A's clue), D must then be in R3 C7, in the last square beside a shelf.
+
+Hint 3/7
+This isolates B in R8 C3, in the last carpet square.
+
+Hint 4/7
+There's exactly one square available in R5 : R5 C5. We need to place 9 people on a 9x9 grid, so there can be no empty row, someone must be there. H, the only person on a chair, must then be on the chair in R5 C5. Block every other chair.
+
+Hint 5/7
+There's only one square available in R6 : R6 C2, block the rest of C2. This sets F in R2; in R2 C1 or R2 C4, block the rest of R2.
+
+Hint 6/7
+This isolates C in the last square beside a table, in R4 C4, then A in the last square in the Dining Room, R6 C2, then F in R2 C1.
+
+Hint 7/7
+This isolates V in the last square, R1 C6. V was alone with D, Denis is the murderer!
