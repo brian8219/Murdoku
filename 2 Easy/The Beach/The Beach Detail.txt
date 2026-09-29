@@ -1,7 +1,26 @@
-1.  F is alone. C is not in beach. C can only be at (7.2)
-2.  F is at (1.1)
-3.  A is at (2.6)
-4.  B is at (6.5)
-5.  E is at (3.4)
-6.  D is at (4.3)
-7.  V is at (5.7)
+1.  F is alone. C is not in beach. C can only be at (C7.R2)
+2.  F is at (C1.R1)
+3.  A is at (C2.R6)
+4.  B is at (C6.R5)
+5.  E is at (C3.R4)
+6.  D is at (C4.R3)
+7.  V is at (C5.R7)
+
+
+Hint 1/6
+C cannot be on the Beach and she cannot be in the Lifeguard's Tower per F's clue. She can only be sitting in the Changing Room, in R2 C7.
+
+Hint 2/6
+This leaves one square left for F to be in the Lifeguard’s Tower, so F is in R1 C1.
+
+Hint 3/6
+The only square left for A to be beside a boulder is R6 C2.
+
+Hint 4/6
+This also narrows down B to R5 C6, the last carpet square.
+
+Hint 5/6
+Now, the only square left for E to be beside a chair is R4 C3.
+
+Hint 6/6
+And D will take the last square on the beach, which is R3 C4. This leaves the last square R7 C5 for V.

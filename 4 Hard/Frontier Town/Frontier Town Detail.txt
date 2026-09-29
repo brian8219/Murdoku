@@ -1,11 +1,33 @@
-1.  Outlaw is beside table. H is with outlaw and sit on a chair. So Outlaw and H is at either CHAPEL or BANK
-2.  A, B, C cannot be beside table and with H in same area. F, G is not beside table. I can be in the same area with H. Outlaw is E. H is at (C10,R7)
-3.  If A is at (C9,R10). It will zone out E. A is at (C4,R9)
-4.  F is (C9,R4) or (C5,R8), it blocks (C9,R9). E is at (C8,R10)
-5.  I is at R8, F is at (C9,R4)
-6.  G is (C2,R5) or (C5,R6), it blocks (C5,R5), C is at (C1,R2)
-7.  B is (C5,R1) or (C3,R6), it blocks (C5,R6), G is at (C2,R5)
-8.  D is at (C7,R3)
-9.  I is at (C5,R8)
-10. B is at (C3,R6)
-11. V is at (C6,R1)
+1.  Outlaw is beside table. H is with outlaw and sit on a chair. So Outlaw and H is at either Chapel or Bank
+2.  A, B, C cannot be beside table and with H in the same area, so A, B, C is not the outlaw. F, G is not beside table, so F, G is not the outlaw. I can't be in the same area with H, so I is not the outlaw. Outlaw is E. H is at (C10.R7)
+3.  If A is at (C9.R10). It will zone out E, the outlaw. A is at (C4.R9)
+4.  F is (C9.R4) or (C5.R8), intersection blocks (C9.R8). E, the outlaw is at (C8.R10)
+5.  I is at (R8), F is at (C9.R4)
+6.  G is (C2.R5) or (C5.R6), intersection blocks (C5.R5), C is at (C1.R2)
+7.  B is (C5.R1) or (C3.R6), intersection blocks (C5.R6), G is at (C2.R5)
+8.  D is at (C7.R3)
+9.  I is at (C5.R8)
+10. B is at (C3.R6)
+11. V is at (C6.R1)
+
+
+Hint 1/7
+According to the clues, the outlaw must be a suspect who's beside a table, and with H, who's sitting in a chair. H would block all squares beside a table if she was sitting in R2 C1 or R9 C2. And no suspect could possibly be an outlaw and fit beside the table in the Chapel.
+
+Hint 2/7
+So, the only area where H could possibly sit with a suspect who's beside a table is in the Bank. By placing H on the R7 C10 chair, E is the only suspect who can fit in any square beside a table in the Bank. Block E's intersecting square, R10 C9.
+
+Hint 3/7
+This isolates A in the last square beside a Register. I is south of H, so I and E must be in R8 and R10, in any order. No one else can fit in these two rows.
+
+Hint 4/7
+This isolates F on the last horse, then E. This sets I in R8.
+
+Hint 5/7
+G is in R5 C2 or R6 C5, block the intersecting squares R6 C2 and R5 C5. This isolates C in the last chair.
+
+Hint 6/7
+B is in R6 C3 or R1 C5, block the intersecting squares R6 C5 and R1 C3. This isolates G in the last square beside a cactus.
+
+Hint 7/7
+This isolates D in the last square beside a chair, then I in the last R8 square, then B in the last corner, then V in the last square.

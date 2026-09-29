@@ -1,10 +1,29 @@
-1.  For H. A is in Restroom, B is in Bedroom, D is in Yard, F is in Kitchen. Basement is the empty area, H is at (6.7)
-2.  In B's clue, someone is in the bed, C9 is taken, then F is at R6, then G is at (7.3)
-3.  F is at (8.6)
-4.  Someone is at (9.2)
-5.  B is at (5.1)
-6.  C is at (3.5)
-7.  D is at (1.8)
-8.  A is at (2.4)
-9.  E is at (9.2)
-10. V is at (4.9)
+1.  For H. A is in Restroom, B is in Bedroom, D is in Yard, F is in Kitchen. Basement is the empty area, H is at (C6.R7)
+2.  In B's clue, someone is in the bed, (C9) is taken, then F is at (R6), then G is at (C7.R3)
+3.  F is at (C8.R6)
+4.  Someone is at (C9.R2)
+5.  B is at (C5.R1)
+6.  C is at (C3.R5)
+7.  D is at (C1.R8)
+8.  A is at (C2.R4)
+9.  E is at (C9.R2)
+10. V is at (C4.R9)
+
+
+Hint 1/6
+Let's begin by deducing H's position by focusing on the squares in the Living Room that allow him to be beside a wall. We can eliminate any squares with carpet since G is the only person on carpet. Then we can eliminate any squares that share a wall with the Restroom, Yard, Bedroom, and Kitchen. This is because H's clue specifies the area on the other side of the wall was empty. However, A is in the Restroom, D is in the Yard, B is in the Bedroom since that is the only room with a bed, and F is in the Kitchen. This narrows down H to be in R7 C6. This also means the Basement is empty, so cross out all Basement squares.
+
+Hint 2/6
+Since B's clue indicates that someone was on the bed, that means whoever is in the Bedroom with B must occupy one of the bed squares in C9. Cross out all the other squares in that column. Now, you'll notice that F must occupy R6, in one of the Kitchen squares. Cross out all other squares in that row.
+
+Hint 3/6
+Because G was on a carpet, she must occupy the last carpet square, which is R3 C7. This will narrow down F to R6 C8.
+
+Hint 4/6
+Focusing back to the Bedroom, someone must occupy the bed square R2 C9, so cross out all the other squares in R2. This means B will be in R1 C5, the remaining square in the Bedroom that's not the bed square.
+
+Hint 5/6
+D will occupy the last puddle square in R8 C1. C will occupy the last chair in R5 C3. A will occupy the last square in the Restroom, which is R4 C2.
+
+Hint 6/6
+Because E cannot be in the corner, he must be in R2 C9. This leaves the last square R9 C4 for V – hence D is the murderer.
