@@ -1,13 +1,34 @@
-1.  H can't be in Plaza because G is there. So H must be at R2. (2.6),(2.7) must be empty.
-2.  H is in Cafe, G is in Plaza, F is in Park. A can only be at Lover's bridge. C is not with A. So A is at C6 last space (6.4)
-3.  C is at (5.9)
-4.  Someone is at (7.7)
-5.  G is at (3.8)
-6.  F is at C9
-7.  If H is at (3.2), then someone has to be at (1.1) and one person need to be at (2.5), but there will be no space for D. So H is at (2.2).
-8.  If the other person in Cafe is at C3, someone needs to be at Path blocks at C1, there will be no space for D. So the person is at (1.1).
-9.  F is at (9.6)
-10. E is at (7.7)
-11. D is at (8.3)
-12. B is at (8.5)
-13. V is at (1.1)
+1.  H can't be in Plaza, G is there and not on a chair. H can't be in Park, F is there and not on a chair. So H must be in Cafe and not on a chair. H is at (R2). Cross out (R2) non Cafe blocks and chairs not in Cafe.
+2.  H is in Cafe, G is in Plaza, F is in Park. A can only be at Lover's bridge. A is at (C6.R4) to prevent empty column.
+3.  C is at (C5.R9)
+4.  Someone is at (C7.R7)
+5.  G is at (C3.R8) to prevent empty column
+6.  H and a person on a chair has taken 2 rows out of (C1~C3), there's no space for D and the person on path. So the person on path if F at (C9.R6). Cross out all other path
+7.  Someone is at (C1.R1) to prevent empty column, cross out all other chair
+8.  E is at (C7.R7)
+9.  D is at (C8.R3)
+10. B is at (C8.R5)
+11. H is at (C2.R2) 
+12. V is at (C1.R1)
+
+
+Hint 1/7
+Cross out all River squares per the general clue. H is in the Cafe with the only person sitting in a chair. He cannot be in the Plaza because G is there and G's squares are not chairs. He also cannot be in the Park because F is there and F's squares are not chairs. This means H has to be in the Cafe in R2. Block the rest of R2. Block all other chairs that are not in the Cafe.
+
+Hint 2/7
+This isolates one square left in C6. Cross out the rest of R4. A has to be on the Lovers' Bridge because there's no men in that area since G is in the Plaza, H is in the Cafe, and F is in the Park.
+
+Hint 3/7
+Amongst C1 - C6, we know that H is in the Cafe with someone on a chair, G is in the Plaza, A is on Lovers' Bridge, and C has to be one column west of A. This accounts for 5 people out of the 6 columns. If someone were to occupy a path square in the Plaza, that would mean D would also have to be in the Plaza, which exceeds the 6 people occupancy since there would be 7 people total. This means D has to be in the Park with the only person on a path square in C9. This also means that no one will occupy the path squares in the Plaza. Block the path squares in the Plaza. Block the rest of C9.
+
+Hint 4/7
+There should only be one square left in R1 C1. Block the rest of R1. This also means the person in the Cafe with H is in R1 C1. Block the other chair in the Cafe. There should only be one square left in R3 C8. Block the rest of C8.
+
+Hint 5/7
+This isolates F to the last square beside a tree in the Park, and he is the only person on a path square. There should only be one square left in R7 C7. Block the rest of R7.
+
+Hint 6/7
+Because C is one column west of A, C and G must occupy R8 and R9 in the Plaza. This means E has to be in R7 C7 to be beside a River and not on the Lovers' Bridge. This isolates D in the last square in the Park.
+
+Hint 7/7
+Two people must occupy Lovers' Bridge. It has to be B in R5 C3 with A because there's no man in that area and that square is not beside a River square. This isolates A. This isolates H. This isolates G. This isolates C. This isolates V in the last remaining square in the Cafe with H. Hugh is the murderer!
