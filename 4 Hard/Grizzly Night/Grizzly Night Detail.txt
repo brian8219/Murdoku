@@ -1,13 +1,31 @@
-1.  B cannot be at (C4,R9) (C's clue), B is at R1
-2.  E is at (C4,R2) (C5,R2)
-3.  F and D take R7 and R8 (F cannot be beside  shrub)
-4.  G is at (C7,R5)
-5.  Someone is at (C4,R4) (H's clue)
-6.  E is at (C5,R2)
-7.  B is at (C8,R1)
-8.  D is at R7, F is at (C9,R8)
-9.  A is at C6, H is at (C3,R3)
-10. A is at (C6,R9)
-11. D is at (C2,R7)
-12. C is at (C4,R4)
-13. V is at (C1,R6)
+1.  B cannot be at (C4.R9) (C's clue), B is at (R1)
+2.  E is at (C4.R2) (C5.R2)
+3.  F and D take (R7) and (R8) (F cannot be beside shrub)
+4.  G is at (C7.R5)
+5.  Someone is at (C4.R4) (H's clue) The only person that can beside a shrub is C.
+6.  E is at (C5.R2)
+7.  B is at (C8.R1)
+8.  D is at (R7), F is at (C9.R8)
+9.  A is at (C6), H is at (C3.R3)
+10. A is at (C6.R9)
+11. D is at (C2.R7)
+12. V is at (C1.R6)
+
+
+Hint 1/6
+B is in R1 since the only non-carpet square she can occupy in the last row is beside a shrub, and C's clue states that he's the only person beside a shrub. Cross off any squares in R1 that are beside a shrub or a car since E is the only person in a car. This narrows E to the car in R2. Cross off the rest of R2.
+
+Hint 2/6
+F is in C9 per her clue, and is south of C. The highest row for C to be beside a shrub is R3, this means F must be in R4 or lower. This narrows down F to R7 C9 or R8 C9 (she cannot be beside a shrub per C's clue). D is also on a bed either in R7 or R8. D and F occupy R7 and R8 in some order, cross out the rest of these rows.
+
+Hint 3/6
+This isolates one chair left for G to occupy in the Woods. This isolates the last person to be beside the bear in R4 C4, which is also beside a shrub, so it has to be C.
+
+Hint 4/6
+This isolates E. This isolates B. This means D must be in R8, so F must be in R9 C9.
+
+Hint 5/6
+A must be in C6, either R3 or R9. Cross out the rest of C6.
+
+Hint 6/6
+This isolates H to the last square in the Woods. This isolates A to the carpet square in Tent C. This isolates D. This isolates V in the last square in Tent B with D. Dylan is the murderer!

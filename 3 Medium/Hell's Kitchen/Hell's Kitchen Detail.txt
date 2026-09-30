@@ -1,10 +1,30 @@
-1.  G and another woman in Reception take C1 and C2
-2.  C can only be in Kitchen at R3, carpet in Dining Room is not beside table, Reception is taken by G. Another woman is at 5.4
-3.  A is at 4.5
-4.  C is at 3.3
-5.  E is at 2.6
-6.  G is at 1.8
-7.  D is at 8.2
-8.  F is at 7.1
-9.  B is at 5.4
-10. V is at 6.7
+1.  G and another woman in Reception take (C1) and (C2)
+2.  C can only be in Kitchen at (R3), carpet in Dining Room is not beside table, Reception is taken by G. Another woman is at (C5.R4)
+3.  A is at (C4.R5)
+4.  C is at (C3.R3)
+5.  E is at (C2.R6)
+6.  G is at (C1.R8)
+7.  D is at (C8.R2). D can't be at (C7.R7), there's no space for another woman.
+8.  Someone is at (C7.R1)
+9.  B is at (C5.R4)
+8.  F is at (C7.R1)
+10. V is at (C6.R7)
+
+
+Hint 1/6
+Per the general clues that every man was beside a table, and that for every man beside a table a woman was beside the same table, G and a woman take the squares beside the Reception table in C1 and C2. Cross out all other squares in those two columns.
+
+Hint 2/6
+Now C. He's on the carpet in the Kitchen – the Dining Room carpet won't let him be beside a table, and the Reception carpet is taken by G and a woman. Among the Kitchen carpet squares, the only one that puts him beside a table with room for a woman too is in R3, at C3 or C4, with the woman in R4 C5. Cross out the rest of R3 and squares intersecting R4 C5.
+
+Hint 3/6
+This narrows A to the last square for her to be beside a plant, R5 C4, which also narrows C to R3 C3. E is at R6 C2, the last square for her to be beside a shelf, narrowing G to R8 C1.
+
+Hint 4/6
+Focusing on D, he's either R2 C8 or R7 C7. But R7 C7 leaves no room for a woman beside the same table, so D is at R2 C8. F is at R1 C7 – her clue puts her in the Restroom, and she must be beside the same table as D.
+
+Hint 5/6
+Because B cannot be in a chair, she is in R4 C5.
+
+Hint 6/6
+This leaves the last square R7 C6 for V – hence A is the murderer.
