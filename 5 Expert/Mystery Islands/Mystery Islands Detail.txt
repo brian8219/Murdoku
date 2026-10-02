@@ -1,22 +1,47 @@
 1.  J is beside a tree and 6 row above G, they have to be in Forest Island.
-2.  L can't be in Desert Island or Empty Island, she has to be on left of J. L can't be in Forest Island, there are already 2 man. If L is in Lonely Island, she has to be at (1.15), it blocks the house for K, blocks the shark for M, can't be alone with V, all other men are in other island. So L must be in Town Island at (C8). 
-3.  J is at (9.5)
+2.  L can't be in Desert Island or Empty Island, she has to be on left of J. L can't be in Forest Island, there are already 2 man. If L is in Lonely Island, she has to be at (C1.R15), it blocks the house for K, blocks the shark for M, can't be alone with V, all other men are in other island. So L must be in Town Island at (C8). 
+3.  J is at (C9.R5)
 4.  G is at (R11)
-5.  L is at (8.9)
-6.  F is southmost in Town Island, O is at (R14), so F is at (R13), O is no in Town Island, two other women at (R10), (R12)
-7.  A is could be (R2), (R7) in Desert Island. D is at (15.1) H's clue mention D is not beside cactus.
-8.  H is at (14.7)
-9.  B is at (C12), A is at (10.2).
-10. 3 candidate left : E, I, N for the women in Town island. It has to be I and N because they have to be together. N is at (6.12)
-11. I is at (11.10)
-12. F is at (7.13)
-13. Town Island have 4 people, Desert Island already have 4 people A, B, D, H. There must be 5th person. Only possibility is E at (13.4).
+5.  L is at (C8.R9)
+6.  F is southmost in Town Island, O is at (R14), so F is at (R13), O is in Town Island, two other women at (R10), (R12)
+7.  A could be (R2), (R7) in Desert Island. D is at (C15.R1) H's clue mention D is not beside cactus.
+8.  H is at (C14.R7)
+9.  B is at (C12), A is at (C10.R2).
+10. 3 candidate left : E, I, N for the women in Town island. It has to be I and N because they have to be together. N is at (C6.R12)
+11. I is at (C11.R10)
+12. F is at (C7.R13)
+13. Town Island have 4 people, Desert Island already have 4 people A, B, D, H. There must be 5th person. Only possibility is E at (C13.R4).
 14. M is at (C1)
-15. G is at (2.11)
+15. G is at (C2.R11)
 16. C is at (C16)
-17. O is at (5.14)
-18. K is at (3.3)
-19. B is at (12.6)
-20. 2 people in Lonely Island take (R15) (R16), C is at (16.8)
-21. M is at (1.15)
-22. V is at (4.16)
+17. O is at (C5.R14)
+18. K is at (C3.R3)
+19. B is at (C12.R6)
+20. 2 people in Lonely Island take (R15) (R16), C is at (C16.R8)
+21. M is at (C1.R15)
+22. V is at (C4.R16)
+
+
+Hint 1/8
+J and G are on the same island. The only island where J can be beside a tree with G six rows to the south is Forest Island. L is west of J, on an island with a tree and with three women and one man on it, so she cannot be on Forest Island. She also cannot be on Lonely Island, because no man could fit there (she would block the only possible square for M). Therefore L must be on Town Island. Since L and J are both beside a tree and L is west of J, this sets L in C8, which isolates J.
+
+Hint 2/8
+This sets G either in R11 C1 or R11 C2, and isolates L. According to her clue, O is in R14. F is the southmost person on Town Island, so O cannot be on Town Island. F must be in R13. Town Island has four people on it, so block the rest of R10 and R12 too.
+
+Hint 3/8
+The only rows with a shark where A can be are R1 and R7 on Desert Island. D is northeast of A, so D and H must also be on Desert Island. Wherever A is, the only square for D not beside a cactus is R1 C15. This isolates H in the last square not beside a cactus on Desert Island.
+
+Hint 4/8
+B is the only man on Desert Island and K is the only person in a house, so block all houses on Desert Island. All squares beside two cacti are in C12, so B must be in C12. This isolates A in the last square in R2 on Desert Island.
+
+Hint 5/8
+Only I and N can be the remaining two women on Town Island (per L's clue), and they cannot be inside a house (per K's clue). I is north of N. This isolates I, N and F in the remaining Town Island squares.
+
+Hint 6/8
+Desert Island cannot have four occupants like Town Island (per the general clue), so there must be five people on it. E is the only possible fifth occupant, isolating her in the last possible square, R4 C13. M can only be in C1, this isolates G.
+
+Hint 7/8
+J, G and K are on Forest Island. There cannot be four or five people on it, per the general clue. This isolates M on Lonely Island.
+
+Hint 8/8
+C must be in the Sea in C12 (east of O), and he's alone with someone. The only other remaining square in the Sea is R14 C5, where O must be. This isolates O, then K, then B. This isolates C and V in the last squares. C is alone with M on Lonely Island. Miguel is the murderer!

@@ -1,0 +1,15 @@
+1.  A is at (C4.R5)
+2.  B is at (C1.R4)
+3.  D is at (C2.R2)
+4.  C is at (C3.R1)
+5.  V is at (C5.R3)
+
+
+Hint 1/3
+A has to be in R5 C4 since that's the only square for her to be beside a plant. This narrows down B to the remaining chair in R4 C1.
+
+Hint 2/3
+Because D has to be beside a shelf, he is in R2 C2. C is in R1 C3 to be beside the table.
+
+Hint 3/3
+This leaves the last square R3 C5 for V – hence A is the murderer.

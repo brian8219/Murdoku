@@ -1,9 +1,28 @@
-1.  A is at R2, so G is at 6.1
-2.  Is A is at 5.2, B has no place to put in Judge's Bench, so A is at 4.2
-3.  E is at 5.7
-4.  D is at 2.6
-5.  H is at 1.4
-6.  Open chairs are in Gallery and Jury Box, if B is in Jury Box, there's no place for another person, so B is in Gallery at 7.8
-7.  C is at 3.9
-8.  F is at 8.5
-9.  V is at 9.3
+1.  A is at (R2), so G is at (C6.R1)
+2.  If A is at (C5.R2), B has no place to put in Judge's Bench, so A is at (C4.R2)
+3.  E is at (C5.R7)
+4.  D is at (C2.R6)
+5.  H is at (C1.R4)
+6.  Open chairs are in Gallery and Jury Box, if B is in Jury Box, there's no place for another person, so B is in Gallery at (C7.R8)
+7.  C is at (C3.R9)
+8.  F is at (C8.R5)
+9.  V is at (C9.R3)
+
+
+Hint 1/6
+We can deduce that A is in the Judge's Bench in R2, either C4 or C6. Since that one row cannot fit both A and B, B cannot be in the Judge's Bench with A. This means B must be somewhere else with the only person sitting in a chair, so A cannot be in the chair. Cross out all squares that are not in the Judge's Bench, as well as the chair in R2.
+
+Hint 2/6
+This leaves only one square for G, so G must be in R1 C6. This also narrows A down to R2 C4.
+
+Hint 3/6
+E must be in R7 C5, the last square in the Witness Stand. Then D must be in R6 C2, the last carpet square.
+
+Hint 4/6
+Because H has to be beside a plant, H must be in R4 C1, the last square where he can satisfy his clue.
+
+Hint 5/6
+Focus back on B's clue. B has to be in the Gallery with someone sitting in the chair. He cannot be in the Jury Box, since both Jury Box squares are in the same column and cannot fit two people. Therefore, the person sitting in the Gallery chair must take R9 C3, and B must be in R8 C7.
+
+Hint 6/6
+Per C's clue that she is in the Gallery, C must be in R9 C3, sitting in the chair. Since F has to be beside a table, F must be in R5 C8, the last square where he can be beside a table. The final remaining square, R3 C9, goes to V, which means F is the murderer.

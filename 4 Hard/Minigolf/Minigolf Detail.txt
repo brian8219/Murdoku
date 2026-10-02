@@ -1,19 +1,38 @@
-1.  G cannot be at (C6,R1) (C7,R1) because of D
+1.  G cannot be at (C6.R1) (C7.R1) because of D
 2.  I is with G
-3.  E can be only at (C7,R6) (C8,R6)
-4.  Only two Flag left, so A can only be at R3 or R10. All chairs are at R3 or R10. So A and B take R3 R10
-5.  H can be at (C10,R1) (C3,R5) it blocks (C10,R5)
-6.  Person beside table, person beside barrel, E take C7, C8, C9
-7.  B is at (R3,C4)
-8.  Someone is at (C1,R9) because of A's clue
-9.  I is at R2
-10. H is at (C3,R5)
-11. G is at (C2,R1)
-12. I is at (C5,R2)
-13. A is at (C10,R10)
-14. D is at (C6,R7)
-15. Some is at (C7,R8) (general clue)
-16. E is at (C8,R6)
-17. F is at (C1,R9)
-18. C is at (C7,R8)
-19. V is at (C8,R4)
+3.  E can be only at (C7.R6) (C8.R6)
+4.  Only two Flag left, so A can only be at (R3) or (R10). All chairs are at (R3) or (R10). So A and B take (R3) (R10)
+5.  H can be at (C10.R1) (C3.R5) it blocks (C10.R5)
+6.  Person beside table, person beside barrel, E take (C7), (C8), (C9)
+7.  B is at (R3.C4)
+8.  Someone is at (C1.R9) according to A's clue
+9.  I is at (R2)
+10. H is at (C3.R5)
+11. G is at (C2.R1)
+12. I is at (C5.R2)
+13. A is at (C10.R10)
+14. D is at (C6.R7)
+15. Some is at (C7.R8) (general clue)
+16. E is at (C8.R6)
+17. F is at (C1.R9)
+18. C is at (C7.R8)
+19. V is at (C8.R4)
+
+
+Hint 1/6
+G is in The Desert since she is in the top row, but cannot be on a path tile per D's clue. This means that G is alone with I in The Desert. This isolates E to the sand tiles in R6. Cross out the rest of R6.
+
+Hint 2/6
+B is in a chair either in R3 or R10. A is one row south of someone on a flag, which means he is either in R3 or R10. This means that A and B will occupy those rows in some configuration. This sets H to R5 C3 or R2 C10, block the intersecting squares R5 C10 and R2 C3.
+
+Hint 3/6
+Amongst C7 - C9, E must be there on a sand tile, one person is beside a table, and one person is beside a barrel. This means that no one else can occupy those columns.
+
+Hint 4/6
+This isolates B to R3 C4 since she cannot occupy the chairs in C7 and C9. This means A is in R10, which also means someone must occupy the flag in R9 C1. Cross out all squares that intersect with R9 C1.
+
+Hint 5/6
+This isolates I to R2, which isolates H to R5 C3. This isolates G, then isolates I. This isolates D to the last path square. This isolates A. This isolates the unknown person beside the table to R8 C7, which then isolates E.
+
+Hint 6/6
+Because F has to be alone, she is in R9 C1. C has to be beside the table since he cannot be in a corner. This leaves V next to the barrel in the Barrels with E. Elyana is the murderer!

@@ -1,13 +1,35 @@
-1.  F is the only person on a chair, S is in Santa's Lodge, S is at R3
-2.  F is at (6.4)
-3.  J and G is at R1 and R2, G is at (11.2)
-4.  D is at C3, B is at (8.8)
-5.  S ia at (7.3)
-6.  C is at (2.9)
-7.  D is at (3.11)
-8.  E is at (10.7)
-9.  I is at (5.10), last person in R10
-10. Someone is at (4.6)
-11. J is at (9.1)
-12. A is at (1.5)
-13. V is at (4.6)
+1.  F is the only person on a chair, S is in Santa's Lodge, S is at (R3)
+2.  F is at (C6.R4)
+3.  J and G is at R1 and R2, G is at (C11.R2)
+4.  D is at C3, B is at (C8.R8)
+5.  S ia at (C7.R3)
+6.  C is at (C2.R9)
+7.  D is at (C3.R11)
+8.  E is at (C10.R7)
+9.  I is at (C5.R10), last person in (R10)
+10. Someone is at (C4.R6)
+11. J is at (C9.R1)
+12. A is at (C1.R5)
+13. V is at (C4.R6)
+
+
+Hint 1/7
+Because F is the only person sitting in a chair, S must be in R3 in one of Santa's Lodge squares (not the chair). Cross out all other squares in R3 and the chair in Santa's Lodge, since S was alone.
+
+Hint 2/7
+Now F's position. Since E is in the Coffee Shop and NOT with F, the only chairs F could be in are the Walkway or Santa's Village. But the two Walkway chairs are on C5, which I occupies, so F has to be the chair at R4 C6. Cross out all other chairs in the puzzle.
+
+Hint 3/7
+Now G and J. G is in the Bookstore and J is one row above her, so they need two adjacent rows. Only R1 and R2 work – if G were in the Bookstore in R5, there'd be no room for J above her. So G is R2 C11 and J is somewhere in R1.
+
+Hint 4/7
+This narrows D to two squares on C3, beside the register in the Toy Store – cross out the rest of that column. It also leaves B one square in the Walkway in front of a door, R8 C8. S is now narrowed to R3 C7.
+
+Hint 5/7
+The only square left for C to be beside a teddy bear is R9 C2, leaving D at R11 C3. E takes the last Coffee Shop square at R7 C10. With one square left in R10 and I on C5, I is at R10 C5.
+
+Hint 6/7
+R5 C1 must be occupied as the last square of its column – cross out the rest of that row. R6 C4 is the last square of its row – cross out the rest of that column. This narrows J to R1 C9. Since A is north of V, A is at R5 C1.
+
+Hint 7/7
+This leaves the last square R6 C4 for V – hence F is the murderer.

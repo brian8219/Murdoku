@@ -1,11 +1,24 @@
-1.  According to E's clue, Outlaw is at R1 ~ R4. Outlaw is alone. Outlaw can't be at WOODS , C and D are there. Outlaw can't be at C2 ~ c4 at RIVER, is will cause C1 empty Only possibility of outlaw is B at (C5,R4)
-2.  E is at R10. R1 is empty.
-3.  B, outlaw is alone. F is at (C3,R7)
-4.  G is at R2. D is (C6,R6)
-5.  A is at (C8,R8)
-6.  Someone is at (C9,R9)
-7.  C is at (C7,R5)
-8.  H is at (C4,R3)
-9.  H is at (C2,R2)
-10. E is at (C1,R10)
-11. V is at (C10,R9)
+1.  According to E's clue, Outlaw is at (R1) ~ (R4). Outlaw is alone. Outlaw can't be at Woods , C and D are there. Outlaw can't be at (C2) ~ (C4) at River, it will cause (C1) empty. Only possibility of outlaw is B at (C5.R4)
+2.  E is at (R10). (R1) is empty.
+3.  B, outlaw is alone. F is at (C3.R7)
+4.  G is at (R2). D is (C6.R6)
+5.  A is at (C8.R8)
+6.  Someone is at (C9.R9)
+7.  C is at (C7.R5)
+8.  H is at (C4.R3)
+9.  H is at (C2.R2)
+10. E is at (C1.R10)
+11. V is at (C10.R9)
+
+
+Hint 1/4
+Since E is exactly six rows south of the outlaw, the outlaw must be between R1 and R4. The outlaw is alone, so they cannot be in the Woods since C and D are there. This means the outlaw is either G in the River beside the boulder or B on the chair in the Hunting Cabin. However, all of C1's squares are River squares, which means someone else must be in the River. This means G cannot be the outlaw since they cannot be alone in the River. So B is the outlaw in R4 C5. Cross out the rest of the Hunting Cabin.
+
+Hint 2/4
+This means E must be in R10, the bottom row, to be six rows south of the outlaw. So the top row is empty per the general clue. Cross out the top row. This isolates F to the last horse.
+
+Hint 3/4
+Because H is alone, he must be in the Cliffs since A is in the Fort, someone must be in the River in C1, and F is in the Woods.
+
+Hint 4/4
+This isolates G in R2 C2. This isolates D, which then isolates A. This isolates C, then E. V takes the last square in the Fort with A. Alvin is the murderer!
