@@ -1,17 +1,37 @@
-1.  B is at Arboretum, H is in Resting Area, J is in Pond, G is in Bonsai Exhibit, K is in Desert Exhibit. D can only be at path in Flower Garden. F and I are alone in Gazebo and Info Desk
-2.  Empty chair is in Arboretum, Resting Area, Bonsai Exhibit. Only Bonsai Exhibit is possible to be alone with man. E is at (1.4)
-3.  I is at (8.1)
-4.  F is at (2.8)
-5.  D is at R3
-6.  K and G takes C4 and C5
-7.  K and C takes R11 and R12
-8.  B take C11, C is at (9.11)
-9.  B and G take R2 and R3
-10. G is at (4.2)
-11. K is at (5.12)
-12. B is at (10.3)
-13. J is at (7.9)
-14. If A is at (12.6), then D is at (3.7), then H is at (6.10), then no space for V. So A is at (6.5)
-15. H is at (12.7)
-16. D is at (3.6)
-17. V is at (11.10)
+1.  B is at Arboretum, H is in Resting Area, J is in Pond, G is in Bonsai Exhibit, K is in Desert Exhibit. D can only be at path in Flower Garden. F and I are alone in Gazebo and Info Desk, intersection block (C1.R1)
+2.  Empty chair is in Arboretum, Resting Area, Bonsai Exhibit. Only Bonsai Exhibit is possible to be alone with man. E is at (C1.R4)
+3.  I is at (C8.R1)
+4.  F is at (C2.R8)
+5.  D is at (R3)
+6.  G is at (C4.R2)
+7.  K is at (C5.R12)
+8.  C is at (C9.R11)
+9.  B is at (10.3)
+10. J is at (7.9)
+11. Someone is at (C6.R5) to prevent empty row.
+12. H is at (12.7)
+13. D is at (3.6)
+14. A is at (6.5)
+15. V is at (11.10)
+
+
+Hint 1/7
+Pencil in B for the three chairs in the Arboretum. Block the intersecting square R4 C10. Since D was on a path and alone, she cannot be on the path in the Arboretum since B is there. She also cannot be on the path in the Resting Area because H is there. This means D has to be on the path in the Flower Garden. Block the rest of the squares in the Flower Garden.
+
+Hint 2/7
+F and I are alone respectively in the Gazebo and Info Desk because all the other areas have people. Pencil in F for those areas. Pencil in I for the chairs in those areas. Block the intersecting squares R1 C1 and R7 C8.
+
+Hint 3/7
+This isolates E on the chair in the Bonsai Exhibit in R4 C1, she will be alone with G. She cannot be in the Arboretum since B, a woman, is there, and cannot be in the Resting Area since H, a woman, is there. This narrows down B to a chair in C10. Block the rest of C10.
+
+Hint 4/7
+Since F or I must occupy the Gazebo and Info Desk, I will occupy the last chair in the Info Desk, and F occupies the last square in the Gazebo. Cross out the rest of the Info Desk area. This narrows down D to C3. Block the rest of C3.
+
+Hint 5/7
+This isolates G to R2 C4. This isolates B to R3 C10. This isolates K to R12 C5. This isolates C to R11 C9. This isolates J to R9 C7.
+
+Hint 6/7
+There should be one square left in R5 C6. Block off the rest of C6. This isolates H to R7 C12.
+
+Hint 7/7
+Because A has to be one row north of D, A has to be in R5 C6 and D has to be in R6 C3. This isolates V in the last square with J in the Pond. Joe is the murderer!

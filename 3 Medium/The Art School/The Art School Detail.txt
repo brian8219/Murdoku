@@ -1,9 +1,28 @@
-1.  According to D's clue, someone is alone in Gallery, B can only be at 2.1
-2.  F is at 5.2
-3.  A can't be at Sculpting Studio, D is there. Or Painting Studio, it cause empty row. So A is at 9.3
-4.  H is at 7.4
-5.  E is at 4.6
-6.  D is at 7.9
-7.  G is at 3.5
-8.  C is at 1.8
-9.  V is at 8.7
+1.  According to D's clue, someone is alone in Gallery, B can only be at (C2.R1)
+2.  F is at (C5.R2)
+3.  A can't be at Sculpting Studio, D is there. Or Painting Studio, it cause empty row. So A is at (C9.R3)
+4.  H is at (C7.R4)
+5.  E is at (C4.R6)
+6.  D is at (C6.R9)
+7.  G is at (C3.R5)
+8.  C is at (C1.R8)
+9.  V is at (C8.R7)
+
+
+Hint 1/6
+Based on E's clue, the Gallery can only be occupied by a woman. Since B is male, he cannot occupy any framed painting in the Gallery, leaving only R1 C2 for B.
+
+Hint 2/6
+Per D's clue, there is a woman alone in the Gallery. This must be C: it cannot be E because there are no easels there, G because there are no chairs there, or V because she must be alone with the murderer. Pencil C into the possible Gallery squares beside the statue and cross out the others. Also, C cannot be in the bottom row, since D must be one row south of her.
+
+Hint 3/6
+Now that C is alone in the Gallery, F must be on a carpet square in R2. Since G is the only person sitting in a chair, F must be on the only carpet square in R2 that is not a chair: R2 C5. R7 also has only one remaining square that must be occupied, so cross out all intersecting squares except R7 C8.
+
+Hint 4/6
+A must be alone, so he can only be in the last square in Supplies: R3 C9. He cannot be in the Office because B is there, and he cannot be alone in the Sculpting Studio or Painting Studio because that would leave empty rows and prevent everyone from fitting in the grid.
+
+Hint 5/6
+Because G is the only person sitting in a chair, E must be in R6 C4: the only square directly south of an easel that is not a chair. This narrows C to two squares in R8, so cross out the others in that row. Since D is one row south of the woman in the Gallery and cannot occupy a chair, D must be in R9 C6.
+
+Hint 6/6
+There is now only one chair left, so G must be in R5 C3. This fixes C in R8 C1. Since H must be beside a table, H is in R3 C7. The final remaining square, R7 C8, goes to V, which means D is the murderer.

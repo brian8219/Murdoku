@@ -1,14 +1,36 @@
-1.  If B is Boathouse with a woman beside a crate, one of them has to be on a boat. A and C take the other two boats, general clue is failed. If B is in dock B, F then is at R2, A and C have no space left. If B is in Warehouse, the woman has to be V, but H is also there, murderer rule is failed. So B has to be in the Fish market and the Woman is D at R8
-2.  B, D, H take R7, R8, R9.
-3.  H is at C7,C8 these the boat there must not empty, so C3 must be empty
-4.  D is at (1.8)
-5.  H is at (8.7)
-6.  C is at (7.2)
-7.  A is at (4.1)
-8.  F, G take R3, R4, A is at (4.1)
-9.  B is at (5.9)
-10. C2 is empty
-11. E is at (10.5)
-12. G is at (11.4)
-13. F is at (9.3)
-14. V is at (6.6)
+1.  If B is Boathouse with a woman beside a crate, one of them has to be on a boat. A and C take the other two boats, general clue is failed. If B is in dock B, F then is at (R2), A and C have no space left. If B is in Warehouse, the woman has to be V, but H is also there, murderer rule is failed. So B has to be in the Fish market and the Woman is D at (R8)
+2.  B, D, H take (R7), (R8), (R9).
+3.  H is at (C7), (C8) these means the boat there must not empty, so (C3) must be empty
+4.  D is at (C1.R8)
+5.  H is at (C8.R7)
+6.  C is at (C7.R2)
+7.  A is at (C4.R1)
+8.  F, G take (R3), (R4), A is at (C4.R1)
+9.  B is at (C5.R9)
+10. (C2) is empty
+11. E is at (C10.R5)
+12. G is at (C11.R4)
+13. F is at (C9.R3)
+14. V is at (C6.R6)
+
+
+Hint 1/7
+C cannot be the woman beside the crate with B in the Boathouse because she has to be east of A. B and the woman beside a crate in his area cannot be in R3 and R4 because that would limit F to be in R2. This would only leave one boat available, which won't fit both A and C. This means that B and the unknown woman must be in the Fish Market or Warehouse.
+
+Hint 2/7
+Who can be the woman with B? It can only be D. It cannot be C because she's on a boat. It cannot be E because there are no chairs beside a crate. It cannot be V because she must be alone with the murderer, and we know that D is in the Fish Market, and H is in the Warehouse, so B and V wouldn't be alone. This means D must be in R8. Cross out the rest of the row.
+
+Hint 3/7
+Amongst R7 - R9, H is in the Warehouse beside a shelf, and B and D are in the Fish Market. This means all three rows are occupied. Cross out the Boardwalk squares in R7.
+
+Hint 4/7
+Because H has to be in C7 or C8, that means the boat in R2 cannot be empty. C must be in this boat since she is east of A. Block out the rest of R2.
+
+Hint 5/7
+This narrows F and G to R3 and R4. G cannot occupy the boat in the Boathouse because one boat out of the three is entirely inside the two empty columns, and A must be in the second boat. This means the boat in the Boathouse is empty. Cross out all squares in C2 and C3.
+
+Hint 6/7
+This isolates A to R1 C4. This isolates D and B and then H. This isolates C.
+
+Hint 7/7
+This isolates E to the last chair on the Boardwalk. This isolates G then F. V takes the last square on the Boardwalk with E. Erin is the murderer!

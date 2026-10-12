@@ -1,11 +1,30 @@
-1.  G's clue with C and E's clue, G could be at (2.3), (8.3), (1.4). It blocks (1.3).
-2.  B and E's clue, B is at R2
-3.  A is at R3 (G is the only person on a carpet), G is at (1.4)
-4.  B is at (8.2)
-5.  H is at (3.5) other possible are block by people and C, E's clue.
-6.  F is at (4.1)
-7.  A is at (6.3)
-8.  E is at (7.7)
-9.  C is at (9.9)
-10. D is at (2.6)
-11. V is at (5.8)
+1.  G's clue with C and E's clue, G could be at (C2.R3), (C8.R3), (C1.R4). It blocks (C1.R3).
+2.  B and E's clue, B is at (R2)
+3.  A is at R3 (G is the only person on a carpet), G is at (C1.R4)
+4.  B is at (C8.R2)
+5.  H is at (C3.R5) other possible are block by people and C, E's clue.
+6.  F is at (C4.R1)
+7.  A is at (C6.R3)
+8.  E is at (C7.R7)
+9.  C is at (C9.R9)
+10. D is at (C2.R6)
+11. V is at (C5.R8)
+
+
+Hint 1/6
+Let's start by penciling in G's squares. She was beside a bed, but CANNOT be beside a plant since E is the only person beside a plant. She also CANNOT be in the last column since C is in that column. This should narrow down G to three squares – all of which are on a carpet. And per the general clue that only one person is on a carpet, we know that G is that person. Cross out all other carpet squares. We can also cross out R3 C1 because if someone were to occupy that square, that eliminates all the squares that G can occupy.
+
+Hint 2/6
+Since A is beside a TV, he must be in R3, either C4 or C6. Cross out all other squares in that row. This narrows down G to be in R4 C1.
+
+Hint 3/6
+Because B is on a bed, she has to be in C8. However, she CANNOT be in R1 C8 because E is the only person beside a plant, so B is in R2 C8.
+
+Hint 4/6
+Amongst all the remaining chairs, H has to occupy R5 C3 because all the other chairs are beside a plant, which only E can be beside. F will be in R1 C4 since that's the last square for him to be beside a shelf. This narrows down A to R3 C6.
+
+Hint 5/6
+E will occupy R7 C7 to be beside a plant. D is in R6 C2 to be beside the table. Because C is in the last column, she must be in R9 C9.
+
+Hint 6/6
+This leaves the last square R8 C5 for V – hence E is the murderer.

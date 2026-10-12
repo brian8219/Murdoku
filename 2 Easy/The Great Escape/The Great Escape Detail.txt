@@ -1,9 +1,28 @@
-1.  A take R1, H take R8, C is at 9.3
-2.  E is at 2.7
-3.  F is at 1.2
-4.  D is at 6.6
-5.  B is at 4.5
-6.  H is at 7.8
-7.  A is at 5.1
-8.  G is at 3.9
-9.  V is at 8.4
+1.  A take (R1), H take (R8), C is at (C9.R3)
+2.  E is at (C2.R7)
+3.  F is at (C1.R2)
+4.  D is at (C6.R6) (B is alone in Laundry Room)
+5.  B is at (C4.R5) (Cant't be on a water puddle according to D's clue)
+6.  H is at (C7.R8)
+7.  A is at (C5.R1)
+8.  G is at (C3.R9)
+9.  V is at (C8.R4)
+
+
+Hint 1/6
+Begin by penciling in the possible rows for A and H. A must be in R1 on one of the four bed squares, so cross out all other squares that do not apply. Similarly, H must be in R8 in the car, so cross out all squares that do not apply.
+
+Hint 2/6
+This leaves only one chair for C, so C is in R3 C9. Since E has to be beside a TV, he must be in R7 C2, the last available square beside a TV.
+
+Hint 3/6
+Since F is in the Hallway, he must be in R2 C1, the last Hallway square.
+
+Hint 4/6
+Now focus on D. He has to be on a water puddle, but he cannot be in the Laundry Room because B is alone there. Therefore, the only puddle left for D is R6 C6. This narrows H down to R8 C7.
+
+Hint 5/6
+B has to be alone in the Laundry Room, so he is in R5 C4. He cannot be on any water puddle because D is the only person who can occupy those squares. Cross out the remaining Laundry Room squares. This also narrows A down to R1 C5.
+
+Hint 6/6
+Because G has to be beside a wall, he must be in R9 C3. He cannot be in R9 C8, because that would leave no room for V. The final remaining square, R4 C8, goes to V, which means C is the murderer.
