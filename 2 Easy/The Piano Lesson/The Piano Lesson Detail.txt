@@ -5,3 +5,16 @@
 5.  D is at (C6.R1)
 6.  C is at (C4.R6)
 7.  V is at (C3.R2)
+
+
+Hint 1/4
+D needs to be exactly one row north of someone beside the piano, which sets D in R1, and an unknown person beside the piano in R2 C3. Block the rest of R2 and C3.
+
+Hint 2/4
+The unknown person beside the piano is on a carpet, and that's the only person on a carpet according to the general clue. Block every other carpet square. This isolates B in the last square beside the statue.
+
+Hint 3/4
+This isolates A in the last square in the Closet, which isolates E in the last square on a chair.
+
+Hint 4/4
+This isolates D in the last square in R1. C must have someone north of her in the same area, so she can't be beside the piano, as no one in the Study would be north of her. This isolates C in the last R6 square, and V as the person beside the piano. V was alone with E, so E is the murderer!

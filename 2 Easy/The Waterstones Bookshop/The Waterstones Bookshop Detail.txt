@@ -7,3 +7,19 @@
 7.  A is at (C9.R7)
 8.  F is at (C1.R6)
 9.  V is at (C3.R8)
+
+
+Hint 1/5
+There's only one square available for C that is beside a sign in the Best Sellers area, this isolates C in R9 C5. (Remember that "beside" means in the same area.) Left press and hold to place C on that square.
+
+Hint 2/5
+This isolates E in the last square in the top row, in R1 C7. This isolates H in the last square in the Stairs in R5; R5 C8.
+
+Hint 3/5
+This isolates D in the last square available in the Fiction area. This isolates B in the last square on the Mezzanine beside a shelf, R4 C2, which isolates G in the last square in the Non Fiction area, R2 C4.
+
+Hint 4/5
+This isolates A on the last chair, in R7 C9, then F on the last square not beside a table.
+
+Hint 5/5
+This isolates V in the last remaining square. V was alone with C in the Best Sellers area, Cora is the murderer!

@@ -4,3 +4,13 @@
 4.  A is at (C2.R2)
 5.  C is at (C4.R1)
 6.  V is at (C6.R6)
+
+
+Hint 1/3
+There's only one square where D can be beside some flowers and beside a tree, this isolates D in the Garden in the last column. Block her entire row and column.
+
+Hint 2/3
+This isolates B on the only chair remaining in the Gazebo. Because E is south of F, he cannot be in the top row. This isolates E in the last remaining chair.
+
+Hint 3/3
+This isolates F in the last square in the Pond that's also north of E, which isolates A on the last carpet square. This isolates C in the last square in the Picnic Area, then V. V was alone with B, Bruno is the murderer!

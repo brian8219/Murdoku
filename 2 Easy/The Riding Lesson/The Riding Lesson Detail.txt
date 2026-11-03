@@ -8,3 +8,25 @@
 8.  C is at (C8.R1)
 9.  E is at (C9.R3)
 10. V is at (C7.R8)
+
+
+Hint 1/7
+B is in the Tool Shed per G's clue, this isolates B in the only square in the area beside a table.
+
+Hint 2/7
+There's one square left for G in the tool shed, so G is in R4 C1.
+
+Hint 3/7
+Since F has to be on a horse in the Training Ring, F must be on the last horse in that area in R6 C6. Then, H is in R5 C3, the last mud puddle.
+
+Hint 4/7
+Per C’s clue, there’s a woman sitting on a horse, we can deduce that this woman must occupy R3 C9. Cross out all the other squares in R3 and C9. (As of now, we CANNOT deduce who the woman on the horse is since both E or V can occupy this square.)
+
+Hint 5/7
+We can deduce that A must be in R9 C4. A cannot be in R9 C8 because C’s clue states she has to be one column west of the woman on the horse, so C must be in C8.
+
+Hint 6/7
+This isolates D in the last available square in C5.
+
+Hint 7/7
+Because E has to be in the stable, she must occupy the horse square in R3 C9. This isolates V in the last remaining square.
