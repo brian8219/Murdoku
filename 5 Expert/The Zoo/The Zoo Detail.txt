@@ -1,8 +1,8 @@
 1.  According to general clue. I, J, L, N, O are in different Habitat. K and M are in the same area.
-2.  G and H are alone. B is at CONCESSION. D is in MAIN AREA. So G and H take ENTRANCE and DECK.
-3.  B and another person in CONCESSION and one person in ENTRANCE take C14, C15, C16
-4.  N is at CROCODILE HABITAT (other keeper can't be at this area)
-5.  J is at C8
+2.  G and H are alone. B is at Concession. D is in Main Area. So G and H take Entrance and Deck.
+3.  B and another person in Concession and one person in Entrance take (C14), (C15), (C16)
+4.  N is at Crocodile Habitat (other keeper can't be at this area)
+5.  J is at (C8)
 6.  E is at (C14,R10)
 7.  G is at (C1,R12)
 8.  L is at (C9,R1)
@@ -20,3 +20,25 @@
 18. M is at (C2,R13)
 19. D is at (C11,R6)
 20. V is at (C12,R11)
+
+
+Hint 1/7
+D is in the Main Area and B is in Concessions. No Visitor can be in a Habitat per the general clue, so G and H can only be alone on the Deck and in the Entrance, in either order. Also, B and someone else are in Concessions. So no one can occupy the Bear Habitat in C14, C15 and C16, block these squares. N can only be beside a tree in the Crocodile Habitat.
+
+Hint 2/7
+No Habitat is empty, and there are five Habitats remaining. So only M + K and V + the murderer are together, and the other Zookeepers must be alone in a Habitat. So J cannot be with N. This sets J in C8, either in the Penguin Habitat or the Elephant Habitat. Block the rest of C8.
+
+Hint 3/7
+Where can E be? C2 is already taken by M, and either G or H is alone in the Entrance. E can only be beside a table in R10 C14, this isolates E. This isolates G, sitting in a chair alone on the Deck. Block the rest of the Deck.
+
+Hint 4/7
+L cannot be with N (see hint 2). This isolates L on the last water square not beside an animal. This isolates J in the Elephant Habitat, then B, then N and H. This isolates O on the last available square beside a boulder.
+
+Hint 5/7
+I cannot be with L, N, J or O (see hint 2). Per the general clue, A is in the Main Area, and he is also one row north of I. So I can only be beside the lion in R4 C5, with A in R3 C7. This isolates K.
+
+Hint 6/7
+C and D must be in R5 and R6. This isolates F beside the last chair, then M with K, then C and D.
+
+Hint 7/7
+This isolates V, alone with J in the Elephant Habitat. Jim is the murderer!

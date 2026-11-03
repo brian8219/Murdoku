@@ -1,15 +1,34 @@
 1.  According to general clue, at least 8 people in 4 stores. At most 3 people in Fountain and Walkway. It's A, B, F, other people can't be in these area.
-2.  H is at (7.10)
-3.  I is at (6.1)
-4.  A is at (5.6)
-5.  Someone is at C4, B is at (8.5)
-6.  F is the chair in walkway, cross out all other place in walkway. Someone has to be at (10,7)
-7.  C is at (11.3)
-8.  E is at (9.2)
-9.  G is at (10.7)
-10. Someone is at (3.4)
-11. F is at (2.8)
-12. (3.9) can't put people, it cause empty row and column
-13. J is (3.4)
-14. D is at (4.11)
-15. V is at (1.9)
+2.  H is at (C7.R10)
+3.  I is at (C6.R1)
+4.  A is at (C5.R6)
+5.  Someone is at C4, B is at (C8.R5)
+6.  F is the chair in walkway, cross out all other place in walkway. Someone has to be at (C10,R7)
+7.  C is at (C11.R3)
+8.  E is at (C9.R2)
+9.  G is at (C10.R7)
+10. Someone is at (C3.R4)
+11. F is at (C2.R8)
+12. (C3.R9) can't put people, it cause empty row and column
+13. J is (C3.R4)
+14. D is at (C4.R11)
+15. V is at (C1.R9)
+
+
+Hint 1/6
+H is beside a garbage can in C6 or C7. A has to be beside the statue in the Fountain. I has to be exactly one column east of A. If A were in C6, I would be in C7, this would block all of H's squares. So A cannot be in C6. A has to be in R6 C5 or R6 C7. Block the rest of R6.
+
+Hint 2/6
+We have 11 people to place in the grid. A is in the Fountain, and B and F must be in the Walkway. Per the general clue that there were at least two people in each store, we can deduce that the remaining 8 people must be paired up in each store. This means that H must be beside a garbage can in the Toy Store. This isolates A and isolates I in the Clothes Store in C6.
+
+Hint 3/6
+This narrows down F to occupy one of the chairs in the Walkway in R8. Block the rest of R8. There is one square remaining in R11. Block the rest of C4. Because each store must have two people, the pair in the Gift Store must occupy R9 and R11 C4. Cross out the Toy Store squares in R9.
+
+Hint 4/6
+This means H is in the Toy Store with someone who will occupy R7 C10. Cross out all intersecting squares.
+
+Hint 5/6
+Because E is the only person sitting in any Store, this isolates C in the last Board Game Store square that's not a chair R3 C11. This narrows down E to be in one of the chairs in the Board Game Store in R2 to satisfy their clue and the general clue. Cross out the rest of R2. This isolates B to R5 C8. This isolates E to R2 C9.
+
+Hint 6/6
+The second person in the Clothes Store must occupy R4 C3. Cross out all intersecting squares. This isolates F. This isolates G in the last square in the Toy Store for her to be beside a shelf. This isolates J to the Clothes Store since he cannot be in the corner. This isolates D to be beside the cash register in the Gift Store. This isolates V in the last square in the Gift Store with D. Darren is the murderer!

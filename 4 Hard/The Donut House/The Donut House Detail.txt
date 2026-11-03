@@ -1,11 +1,37 @@
-1.  In H's clue. The man has to be E, and can't be placed in R8, R9. If E is at (6.2), then A has to be in the bed in Main Bedroom, it will cause empty column, so E must be in Living Room.
-2.  Either a is in Main Bedroom or Guest Bedroom, there has to be another person in another room to prevent empty column.
+1.  In H's clue. The man has to be E, and can't be placed in (R8), (R9). If E is at (C6.R2), then A has to be in the bed in Main Bedroom, it will cause empty column, so E must be in Living Room.
+2.  Either A is in Main Bedroom or Guest Bedroom, there has to be another person in another room to prevent empty column.
 3.  B is in Hallway, D is in Kitchen, so the empty area is Washroom.
-4.  E is alone in Living Room, he has to be at (1.6) to prevent empty column.
-5.  C is at (9.5)
-6.  H is at R8, A is (8.3)
-7.  G is at (5.2)
-8.  D is at (2.1)
-9.  Someone is at (7.9), H is at (6.8)
-10. B is at (3.4)
-11. V is at (4.7)
+4.  E is alone in Living Room, he has to be at (C1.R6) to prevent empty column.
+5.  C is at (C9.R5)
+6.  H is at R8, A is (C8.R3)
+7.  G is at (C5.R2)
+8.  D is at (C2.R1)
+9.  Someone is at (C7.R9), H is at (C6.R8)
+10. B is at (C3.R4)
+11. F is at (C7.R9)
+12. V is at (C4.R7)
+
+
+Hint 1/8
+Who can be the man sitting in a chair, two rows north of H? The only chairs that can be two rows north of H are in the Living Room or in the Guest Bedroom, in a corner, which excludes C, D and F. E is then the only man who can sit in a chair two rows north of H. E is alone either in the Living Room or in the Guest Bedroom.
+
+Hint 2/8
+A per her own clue is alone in the Guest Bedroom or in the Main Bedroom. C is in the Main Bedroom or in the Living Room, but not with A or E. In other words, the Living Room, Main Bedroom and Guest Bedroom all must be occupied by A, E, C in any order. The Kitchen is occupied by D and the Hallway is occupied by B, the only area with any carpet. This leaves the Washroom as the only possible empty room, block every square in the Washroom.
+
+Hint 3/8
+There is exactly one available square in R9. This is a 9x9 grid with exactly 9 characters, there's exactly one person per row, so someone must be in R9 C7. Block the rest of C7.
+
+Hint 4/8
+A, alone and on a bed, can't be alone in the Main Bedroom anymore. She must then be on the R3 bed. Block the rest of R3, and block the rest of the Guest Bedroom.
+
+Hint 5/8
+This isolates someone in the last R1 square : R1 C2. Block the rest of C2.
+
+Hint 6/8
+This isolates E on the last chair, block the rest of the Living Room. This sets H two rows south of him in R8.
+
+Hint 7/8
+This isolates C in the last square beside a TV, then A, then H. This isolates B on the last carpet square, and G in the last square beside a shelf.
+
+Hint 8/8
+This isolates D in the last square in the Kitchen in R1 C2 and F in the last square beside a plant in R9 C7. This isolates V in the last square in R7 C4, alone with B. Bonnie is the murderer!
