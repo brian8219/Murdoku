@@ -1,0 +1,3 @@
+The case has two possible solution. Only one of them can pass the validation.
+
+
