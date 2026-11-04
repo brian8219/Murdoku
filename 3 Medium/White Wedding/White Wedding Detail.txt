@@ -8,3 +8,22 @@
 8.  B is at (C8.R8)
 9.  G is at (C2.R4)
 10. V is at (C1.R3)
+
+
+Hint 1/6
+Since the general clue states that there is a man and a woman on the Altar, we can deduce that they must occupy R1 and R2 since the Altar only spans 2 rows. Cross out all other squares in those rows.
+
+Hint 2/6
+Amongst all the women, only C can be in the Altar. It cannot be B since she has to be beside some flowers. It cannot be D since she's in the Porch. It cannot be G since she has to be in an area with trees. It cannot be H since she's sitting in a chair. This means C is the woman in the Altar, so she is in R2 C5. Because E is northeast of C, he must be in R1 C6.
+
+Hint 3/6
+This narrows down D to be in R9 C4, the last square in the Porch. Since F has to be in the corner of his area, he has to be in R7 C7, which is the only corner left.
+
+Hint 4/6
+H will occupy the last chair in R5 C3. A will be in R6 C9 since it's the last square for him to be beside a table.
+
+Hint 5/6
+The last square for B to be beside some flowers is R8 C8.
+
+Hint 6/6
+Since G is with someone who was beside a tree, that person must occupy R3 C1. Cross out all squares that intersect R3 C1. This means G has to be in R4 C2. This leaves the last square R3 C1 for V – hence G is the murderer.
