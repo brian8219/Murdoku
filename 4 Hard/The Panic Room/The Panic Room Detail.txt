@@ -1,13 +1,36 @@
-1.  C, E, F take C8,C9,C10
-2.  H, D, E, and a woman in Dining Room take R1, R2, R3, R4
-3.  B is at (C7,R6)
-4.  D is at (C6,R2)
-5.  G is at R10
-6.  C is at (C8,R9)
-7.  F is at (C10,R5)
-8.  E is at (C9,R3)
-9.  A is at (C2,R7)
-10. G is at (C5,R10)
-11. I and V take C1 and C3. H is at (C4,R1)
-12. I is at (C3,R8)
-13. V is at (C1,R4)
+1.  C, E, F take (C8),(C9),(C10)
+2.  H, D, E, and a woman in Dining Room take (R1), (R2), (R3), (R4)
+3.  B is at (C7.R6)
+4.  D is at (C6.R2)
+5.  A is at (C2.R7) or (C4.R5), intersection blocks (C4.R7)
+5.  G is at (R10)
+6.  C is at (C8.R9)
+7.  F is at (C10.R5)
+8.  E is at (C9.R3)
+9.  A is at (C2.R7)
+10. G is at (C5.R10)
+11. I and V take (C1) and (C3). H is at (C4.R1)
+12. I is at (C3.R8)
+13. V is at (C1.R4)
+
+
+Hint 1/7
+E in the Panic Room, F beside a TV and C in the Guest Bedroom must occupy C8, C9 and C10 in some order. No one else can fit in C8, C9 or C10.
+
+Hint 2/7
+D, beside a shelf, must then be in the Kitchen. H is with a woman in the Dining Room. E, D, H and the woman with H all occupy R1, R2, R3 and R4 in some order. In order to fit all four people in these four rows, either H or the woman must be in R4 C1. Block the rest of R4 and C1.
+
+Hint 3/7
+This isolates B in the last possible chair for him, R6 C7. This isolates D in R2 C6, as D can't occupy C8, C9 or C10.
+
+Hint 4/7
+A, beside a statue, can only be in R7 C2 or R5 C4. Block the intersecting square R7 C4.
+
+Hint 5/7
+All the remaining carpet squares are in the Guest Bedroom. G, one row south of someone on a carpet, must then be in R10. This isolates C, the only person who can fit on the carpet in the Guest Bedroom, in R9 C8.
+
+Hint 6/7
+F can't fit in the Panic Room between R1 and R3 (see step 2). This isolates F in R5 C10 and E in the last square in the Panic Room in R3 C9. This isolates A in the last square beside a statue in R7 C2.
+
+Hint 7/7
+This isolates G in the last R10 square, R10 C5. I must be two columns east of a woman, and the only possibility is if she's two columns east of V. This sets V as the person in R4 C1, I in R8 C3, and H in R1 C4. V was alone with H, Harold is the murderer!

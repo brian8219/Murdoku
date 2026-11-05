@@ -1,12 +1,37 @@
-1.  According to A's clue, there's woman in a car. F is not possible. D is not possible (B is in WOODS) So it has to be H. G is at C5, so H is at (C6,R6)
-2.  Someone is at (C1,R8) (One person each column)
-3.  B is at (C7,R7)
-4.  A is at R5.
-5.  F is at (C8,R4)
-6.  Someone is at C3 (One person each row)
-7.  A is at (C4,R5)
-8.  G is at (C5,R9) (One person each row)
-9.  E is at (C9,R2) (a woman in the area, and space for C)
-10. C is at (C3,R1)
-11. D is at (C2,R3)
-12. V is at (C1,R8)
+1.  According to A's clue, there's woman in a car. F is not possible. D is not possible (B is in Woods) So it has to be H. G is at (C5), so H is at (C6.R6)
+2.  Someone is at (C1.R8) (One person each column) and according to general rule, cross out other chairs.
+3.  B is at (C7.R7)
+4.  A is at (R5).
+5.  F is at (C8.R4)
+6.  Someone is at (C3) (One person each row)
+7.  A is at (C4.R5)
+8.  G is at (C5.R9) (One person each row)
+9.  E is at (C9.R2) (a woman in the area, and space for C)
+10. C is at (C3.R1)
+11. D is at (C2.R3)
+12. V is at (C1.R8)
+
+
+Hint 1/8
+Who can be the woman inside a car, per A's clue? D cannot be in the Woods, as she cannot be with a man, and B must be in the Woods. This leaves H as the only option, beside the shrub, she must be in R6 C6. (Not C5, G is already in that column.)
+
+Hint 2/8
+This is a 9x9 grid with exactly 9 people, so there must be exactly one person in each row and column. Whoever is in C1 must be in the last available square : C1 R8. Block the rest of R8. This isolates B in the last square beside a tree.
+
+Hint 3/8
+C1 R8 contains a chair, and there's exactly one person in a chair according to the general clue. Block every other chair square.
+
+Hint 4/8
+A must be one row north of H, in R5. This isolates F on the last carpet square in R4 C8.
+
+Hint 5/8
+Someone must be in the last R1 square, R1 C3, block the rest of C3. This isolates A. Someone must be in the last C9 square, R2 C9, block the rest of R2.
+
+Hint 6/8
+Someone must be in the last C2 square, R3 C2. This isolates G in the last C5 square.
+
+Hint 7/8
+Because E is south of C, E can only be with a woman in the Tavern, with F. This isolates E and C.
+
+Hint 8/8
+This isolates D in the Storage, now the only area with no man, then V in the last square.

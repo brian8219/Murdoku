@@ -1,3 +1,5 @@
+Note : Zero a Oito is a Kiosk
+
 1.  A is at (C7.R1)
 2.  D is at (C1.R2)
 3.  C is at (C13.R12)
@@ -13,3 +15,21 @@
 13. I is at (C5.R10)
 14. V is at (C9.R9)
 
+
+Hint 1/6
+A is in R1 C7 since it's the only chair that is beside a trashcan. D is in R2 C1 since that's the last square available in Kiosk 1.
+
+Hint 2/6
+C is in R12 C13 since that's the only square left in C13 that's not a Kiosk. E is in R7 C12, the last square in the Zero a Oito Kiosk.
+
+Hint 3/6
+Because B has to be beside a shelf, she is in R6 C2. G will be in R13 C3 since it's the last square of the Food Truck. L is in R4 C4 since it's the last square for him to be beside a trashcan and not be in the chair.
+
+Hint 4/6
+Because H is in the Esplanada, he must be in R11. Cross out all the chairs in R11. This leaves one chair left in R3 C10 for F. This narrows down H to R11 C8.
+
+Hint 5/6
+Because J is one row south of E, J must be in R8 C11. I is in R10 C5 since it's the last Walkway square. Because K is north of B, he will be in R5 C6.
+
+Hint 6/6
+This leaves the last square R9 C9 for V – hence K is the murderer.
