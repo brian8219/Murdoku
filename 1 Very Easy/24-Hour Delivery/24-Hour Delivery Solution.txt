@@ -4,3 +4,19 @@
 4.  C is at (C5.R3)
 5.  E is at (C3.R5)
 6.  V is at (C6.R4)
+
+
+Hint 1/5
+Because C is the only person on a carpet, there's only one square where A can be beside the box : R6 C1.
+
+Hint 2/5
+This isolates B in the last chair.
+
+Hint 3/5
+This isolates D in the last square in the Bedroom that's not on a carpet.
+
+Hint 4/5
+This isolates C on the last carpet square.
+
+Hint 5/5
+This isolates E in the last square beside a shrub, then V in the last remaining square.

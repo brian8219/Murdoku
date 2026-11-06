@@ -1,3 +1,17 @@
 The case has two possible solution. Only one of them can pass the validation.
 
 
+1.  Someone with C in the kitchen take (C4), (C5). Someone is at (C5.R7)
+2.  Someone is at (C1.R9) to prevent empty column.
+3.  B and E take (R2), (R8)
+4.  C is at (C4.R10)
+5.  Someone is at (C6.R1) to prevent empty row
+6.  A is at (C3.R4),
+7.  G is at (C2.R5)
+7.  E is at (C7.R2)
+8.  B is at (C8.R8)
+9.  The only person can be at (C1.R9) is D. (F has to be at east of A at C3. V can't be alone in Study. The south most space V can be is at (R7) , So the south most H can be is at (C9.R6))
+
+10. Two possible of F, H, V.
+    F is at (C5.R7), H is at (C6.R1), V is at (C9.R6)
+    F is at (C6.R1), H is at (C9.R6), V is at (C5.R7)

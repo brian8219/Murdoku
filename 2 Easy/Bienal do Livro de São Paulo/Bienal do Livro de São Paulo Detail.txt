@@ -10,3 +10,19 @@
 10. W is at (C6.R8)
 11. F is at (C10.R1)
 12. V is at (C7.R6)
+
+
+Hint 1/5
+There's only one square in Kiosk B for (S). Left press and hold to place (S) in R4 C5.
+
+Hint 2/5
+There's now only one square for N in Kiosk D, this isolates N in R5 C12. This isolates E in the only remaining square in Kiosk A. This also isolates R in the last square in the Entrance that isn't a carpet, in R12 C8.
+
+Hint 3/5
+This isolates A in the last square the Food Court that isn't a carpet, which isolates K in the last square in the Food Court, with A.
+
+Hint 4/5
+This isolates J in the last square in the Washroom, and H on the last square. This isolates W on the last square beside a shelf, then F in the last square beside a table.
+
+Hint 5/5
+F was alone with V, Freida is the murderer!
